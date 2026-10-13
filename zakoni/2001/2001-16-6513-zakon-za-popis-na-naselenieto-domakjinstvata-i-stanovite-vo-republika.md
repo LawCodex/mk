@@ -10,7 +10,7 @@ in_force_from: 2001-02-28
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6513"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за попис на населението, домаќинствата и становите во Република Македонија, 2001 година

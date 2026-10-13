@@ -10,7 +10,7 @@ in_force_from: 1998-04-10
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5218"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата за заемна административна помош меѓу Македонската влада и Француската влада за спречување, истрага, утврдување и санкционирање на царинските прекршоци

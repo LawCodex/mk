@@ -10,7 +10,7 @@ in_force_from: 2013-02-15
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27624"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за мирување и отпишување на обврски по основ на придонеси за задолжително здравствено осигурување кои настанале до крајот на 2008 година

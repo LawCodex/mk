@@ -10,7 +10,7 @@ in_force_from: 2009-01-07
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16034"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Протоколот за измени и дополнувања на Меѓународната конвенција за поедноставување и усогласување на царинските постапки

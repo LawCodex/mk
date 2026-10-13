@@ -10,7 +10,7 @@ in_force_from: 2010-11-13
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20612"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за прогласување на локалитетот Плоче - Литотелми за строг природен резерват

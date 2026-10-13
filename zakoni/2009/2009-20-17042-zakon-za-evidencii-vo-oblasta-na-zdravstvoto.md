@@ -10,7 +10,7 @@ in_force_from: 2009-02-24
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17042"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за евиденции во областа на здравството

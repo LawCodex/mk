@@ -10,7 +10,7 @@ in_force_from: 2009-06-06
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17196"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за посебните права на учесниците во мировните операции и операциите за колективна одбрана надвор од територијата на Република Македонија и на членовите на нивните семејства

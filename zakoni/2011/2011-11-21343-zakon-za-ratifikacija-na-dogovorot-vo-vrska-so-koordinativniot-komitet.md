@@ -10,7 +10,7 @@ in_force_from: 2011-02-08
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21343"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот во врска со Координативниот комитет во рамките на Состанокот на министрите за одбрана на Југоисточна Европа (СЕДМ КК)

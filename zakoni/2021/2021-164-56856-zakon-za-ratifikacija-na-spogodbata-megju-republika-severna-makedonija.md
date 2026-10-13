@@ -10,7 +10,7 @@ in_force_from: 2021-07-27
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56856"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата меѓу Република Северна Македонија и Грузија за укинување на визи

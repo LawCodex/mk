@@ -10,7 +10,7 @@ in_force_from: 2018-09-15
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43136"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Законот за ратификација на измените и дополнувањата на Конвенцијата за  заедничка  транзитна  постапка,  извршени  со  Одлука  број 1/2017  на  мешовитата комисија на ЕУ-ЕФТА за заеднички транзит

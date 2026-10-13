@@ -10,7 +10,7 @@ in_force_from: 1991-07-20
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1941"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за здравствената исправност на животните намирници и на предметите за општа употреба

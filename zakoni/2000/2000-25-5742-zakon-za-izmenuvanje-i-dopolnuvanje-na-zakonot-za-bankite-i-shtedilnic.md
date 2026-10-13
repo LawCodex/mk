@@ -10,7 +10,7 @@ in_force_from: 2000-04-02
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5742"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за изменување и дополнување на Законот за банките и штедилниците

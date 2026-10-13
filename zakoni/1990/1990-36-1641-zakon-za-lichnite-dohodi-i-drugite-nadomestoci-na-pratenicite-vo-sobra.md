@@ -10,7 +10,7 @@ in_force_from: 1990-07-06
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1641"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за личните доходи и другите надоместоци на пратениците во Собранието на СР Македонија и другите избрани и именувани лица во Републиката

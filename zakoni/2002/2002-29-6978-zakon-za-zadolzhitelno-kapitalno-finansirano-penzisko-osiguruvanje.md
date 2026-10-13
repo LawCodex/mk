@@ -10,7 +10,7 @@ in_force_from: 2002-05-15
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6978"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжително капитално финансирано пензиско осигурување

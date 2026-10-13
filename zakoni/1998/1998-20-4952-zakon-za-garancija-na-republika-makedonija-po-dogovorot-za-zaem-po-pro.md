@@ -10,7 +10,7 @@ in_force_from: 1998-04-30
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4952"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за гаранција на Република Македонија по Договорот за заем по проектот за подобрување на енергетскиот систем од Меѓународната банка за обнова и развој

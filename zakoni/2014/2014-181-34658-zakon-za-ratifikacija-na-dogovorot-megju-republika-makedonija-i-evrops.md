@@ -10,7 +10,7 @@ in_force_from: 2014-12-18
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34658"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот меѓу Република Македонија и Европската Унија за учество на Република Македонија во Програмата на Унијата Фискалис 2020

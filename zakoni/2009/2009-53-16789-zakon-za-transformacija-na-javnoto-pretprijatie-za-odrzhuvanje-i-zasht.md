@@ -10,7 +10,7 @@ in_force_from: 2009-05-01
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16789"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за трансформација на Јавното претпријатие за одржување и заштита на магистралните и регионалните патишта "Македонија пат" - Скопје

@@ -10,7 +10,7 @@ in_force_from: 2011-10-15
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23482"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за престанување на важење на Законот за попис на населението, домаќинствата и становите во Република Македонија, 2011 година

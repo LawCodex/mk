@@ -10,7 +10,7 @@ in_force_from: 1995-02-23
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3927"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за личното име

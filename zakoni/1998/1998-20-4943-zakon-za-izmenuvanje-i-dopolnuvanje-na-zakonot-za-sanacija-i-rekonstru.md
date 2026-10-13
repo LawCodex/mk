@@ -10,7 +10,7 @@ in_force_from: 1998-04-29
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4943"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за изменување и дополнување на Законот за санација и реконструирање на дел од банките во Република Македонија

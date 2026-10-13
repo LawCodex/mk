@@ -10,7 +10,7 @@ in_force_from: 2013-02-02
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27488"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот за економска и техничка соработка во областа на инфраструктурата меѓу Владата на Република Македонија и Владата на Народна Република Кина

@@ -10,7 +10,7 @@ in_force_from: 1965-09-30
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=430"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за исплатување на привремена пензија односно инвалиднина на југословенски државјани врз основа на правата здобиени кај странски носители на социјалното осигурување

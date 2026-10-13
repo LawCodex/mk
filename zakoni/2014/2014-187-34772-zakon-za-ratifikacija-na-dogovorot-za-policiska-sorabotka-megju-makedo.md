@@ -10,7 +10,7 @@ in_force_from: 2014-12-26
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34772"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот за полициска соработка меѓу Македонската Влада и Белгиската Влада

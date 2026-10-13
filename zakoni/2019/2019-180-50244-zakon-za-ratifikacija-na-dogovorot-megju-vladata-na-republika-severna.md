@@ -10,7 +10,7 @@ in_force_from: 2019-09-10
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50244"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот меѓу Владата на Република Северна Македонија и Владата на Црна Гора за размена и заемна заштита на класифицирани информации

@@ -10,7 +10,7 @@ in_force_from: 2011-09-09
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23191"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата меѓу Владата на Република Македонија и Владата на Република Србија за регулирање на режимот за локален граничен сообраќај

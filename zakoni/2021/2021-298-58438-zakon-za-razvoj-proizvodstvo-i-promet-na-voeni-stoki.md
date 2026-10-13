@@ -10,7 +10,7 @@ in_force_from: 2022-01-06
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58438"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за развој, производство и промет на воени стоки

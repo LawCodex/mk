@@ -10,7 +10,7 @@ in_force_from: 1995-03-31
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3974"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за изменување и дополнување на Законот за здравствена исправност на животните намирници и на предметите за општа употреба

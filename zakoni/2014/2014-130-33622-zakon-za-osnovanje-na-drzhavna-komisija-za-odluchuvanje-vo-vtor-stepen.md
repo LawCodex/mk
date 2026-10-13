@@ -10,7 +10,7 @@ in_force_from: 2014-09-11
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33622"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за основање на Државна комисија за одлучување во втор степен во областа на инспекцискиот надзор и прекршочната постапка

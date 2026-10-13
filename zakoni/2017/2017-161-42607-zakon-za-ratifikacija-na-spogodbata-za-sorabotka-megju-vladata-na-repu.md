@@ -10,7 +10,7 @@ in_force_from: 2017-11-18
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42607"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата за соработка меѓу Владата на Република Македонија и Советот на министрите на Босна и Херцеговина во процесот на пристапување во Европската Унија

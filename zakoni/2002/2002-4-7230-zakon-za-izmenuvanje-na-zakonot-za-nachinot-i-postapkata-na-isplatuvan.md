@@ -10,7 +10,7 @@ in_force_from: 2002-02-02
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7230"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за изменување на Законот за начинот и постапката на исплатување на депонираните девизни влогови на граѓаните по кои гарант е Република Македонија

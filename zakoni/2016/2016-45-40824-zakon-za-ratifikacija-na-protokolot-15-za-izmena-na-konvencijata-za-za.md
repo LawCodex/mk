@@ -10,7 +10,7 @@ in_force_from: 2016-03-15
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40824"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Протоколот 15 за измена на Конвенцијата за заштита на човековите права и основните слободи

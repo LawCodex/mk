@@ -10,7 +10,7 @@ in_force_from: 2024-08-23
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67510"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Меѓународната спогодба за размена на податоци за проверка на изјави за имотна состојба

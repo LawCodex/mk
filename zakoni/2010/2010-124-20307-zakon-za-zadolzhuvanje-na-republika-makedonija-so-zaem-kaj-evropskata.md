@@ -10,7 +10,7 @@ in_force_from: 2010-09-28
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20307"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија со заем кај Европската банка за обнова и развој по Договорот за заем за Проектот за  подобрување на железничката пруга на Коридорот 10

@@ -10,7 +10,7 @@ in_force_from: 1997-07-26
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4519"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот меѓу Република Македонија и Република Хрватска за социјално осигурување

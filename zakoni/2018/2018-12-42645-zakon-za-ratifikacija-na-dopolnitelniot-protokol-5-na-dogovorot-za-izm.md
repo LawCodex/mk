@@ -10,7 +10,7 @@ in_force_from: 2018-01-26
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42645"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Дополнителниот протокол 5 на договорот за изменување и пристапување на Централно европскиот Договор за слободна трговија

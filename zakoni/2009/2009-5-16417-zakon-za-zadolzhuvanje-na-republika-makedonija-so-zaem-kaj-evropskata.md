@@ -10,7 +10,7 @@ in_force_from: 2009-01-13
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16417"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија со заем кај Европската банка за обнова и развој по Договорот за заем по Проектот за подобрување на постојната регионална и општинска патна мрежа

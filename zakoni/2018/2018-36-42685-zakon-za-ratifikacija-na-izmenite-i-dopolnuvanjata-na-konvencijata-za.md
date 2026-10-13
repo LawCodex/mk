@@ -10,7 +10,7 @@ in_force_from: 2018-03-06
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42685"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на измените и дополнувањата на Конвенцијата за меѓународен железнички превоз (КОТИФ) од 9 мај 1980 година содржана во Протоколот од 3 јуни 1999 година (Протокол донесен во Вилнус)

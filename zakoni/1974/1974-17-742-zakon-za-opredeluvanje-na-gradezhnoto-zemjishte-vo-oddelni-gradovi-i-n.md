@@ -10,7 +10,7 @@ in_force_from: 1974-04-19
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=742"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за определување на градежното земјиште во одделни градови и населби од градски карактер Битола, Прилеп, Струга, Свети Николе, Џумајлија, Пробиштип и Демир Хисар

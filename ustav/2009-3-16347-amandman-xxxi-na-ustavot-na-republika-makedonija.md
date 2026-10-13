@@ -10,7 +10,7 @@ in_force_from: 2009-01-09
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16347"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Амандман XXXI на Уставот на Република Македонија

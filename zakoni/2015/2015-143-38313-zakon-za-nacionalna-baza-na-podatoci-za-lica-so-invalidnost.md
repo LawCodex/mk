@@ -10,7 +10,7 @@ in_force_from: 2015-09-01
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38313"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за национална база на податоци за лица со инвалидност

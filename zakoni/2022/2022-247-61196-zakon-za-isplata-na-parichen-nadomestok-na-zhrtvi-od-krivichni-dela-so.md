@@ -10,7 +10,7 @@ in_force_from: 2022-11-25
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61196"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за исплата на паричен надоместок на жртви од кривични дела со насилство

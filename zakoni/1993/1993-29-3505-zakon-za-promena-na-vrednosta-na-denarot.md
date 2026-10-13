@@ -10,7 +10,7 @@ in_force_from: 1993-05-10
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3505"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за промена на вредноста на денарот

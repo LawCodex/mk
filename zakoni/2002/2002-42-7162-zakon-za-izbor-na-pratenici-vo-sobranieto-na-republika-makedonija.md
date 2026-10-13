@@ -10,7 +10,7 @@ in_force_from: 2002-07-03
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7162"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за избор на пратеници во Собранието на Република Македонија

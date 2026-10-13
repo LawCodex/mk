@@ -10,7 +10,7 @@ in_force_from: 2019-12-18
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51201"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по договорот за заем за финансирање на проектот за поврзување на локални патишта

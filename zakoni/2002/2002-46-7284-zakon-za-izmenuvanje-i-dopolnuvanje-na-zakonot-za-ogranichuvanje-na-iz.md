@@ -10,7 +10,7 @@ in_force_from: 2002-06-29
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7284"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за изменување и дополнување на Законот за ограничување на изворните приходи за финансирање на јавните потреби за 2002 година

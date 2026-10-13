@@ -10,7 +10,7 @@ in_force_from: 1986-08-02
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1462"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за начинот и условите за извршување на обврските по кредитите од меѓународни финансиски организации за кои Федерацијата дала гаранција или супергаранција и по кредитите од меѓудржавни спогодби

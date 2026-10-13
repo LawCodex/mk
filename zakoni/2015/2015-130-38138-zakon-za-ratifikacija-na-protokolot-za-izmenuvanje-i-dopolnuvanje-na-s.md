@@ -10,7 +10,7 @@ in_force_from: 2015-08-08
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38138"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Протоколот за изменување и дополнување на Спогодбата од Маракеш за основање на Светската трговска организација

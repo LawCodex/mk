@@ -10,7 +10,7 @@ in_force_from: 2022-08-09
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=60180"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за вршење на сметководствени работи

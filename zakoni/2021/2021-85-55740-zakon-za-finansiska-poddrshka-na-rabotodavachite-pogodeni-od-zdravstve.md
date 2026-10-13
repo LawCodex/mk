@@ -10,7 +10,7 @@ in_force_from: 2021-04-18
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55740"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за финансиска поддршка на работодавачите погодени од здравствено-економската криза предизвикана од вирусот COVID-19, заради исплата на платите за месеците февруари и март 2021 година

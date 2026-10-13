@@ -10,7 +10,7 @@ in_force_from: 1990-05-12
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1584"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за изменување на Законот за самостојно вршење дејност со личен труд

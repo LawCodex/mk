@@ -10,7 +10,7 @@ in_force_from: 2014-09-12
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33593"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодба меѓу Владата на Република Македонија и Владата на Република Србија за размена и заемна заштита на класифицирани информации

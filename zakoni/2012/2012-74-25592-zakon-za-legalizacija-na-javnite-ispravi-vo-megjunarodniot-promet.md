@@ -10,7 +10,7 @@ in_force_from: 2012-06-21
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25592"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за легализација на јавните исправи во меѓународниот промет

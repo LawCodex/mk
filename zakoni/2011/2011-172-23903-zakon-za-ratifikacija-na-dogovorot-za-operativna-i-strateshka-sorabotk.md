@@ -10,7 +10,7 @@ in_force_from: 2011-12-22
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23903"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот за оперативна и стратешка соработка меѓу Република Македонија и Канцеларијата на Европската полиција

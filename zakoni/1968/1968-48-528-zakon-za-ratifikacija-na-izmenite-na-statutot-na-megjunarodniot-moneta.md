@@ -10,7 +10,7 @@ in_force_from: 1968-11-28
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=528"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на измените на Статутот на меѓународниот монетарен фонд

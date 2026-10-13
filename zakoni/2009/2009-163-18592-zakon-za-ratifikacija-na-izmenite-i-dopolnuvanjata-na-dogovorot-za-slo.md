@@ -10,7 +10,7 @@ in_force_from: 2010-01-08
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18592"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на измените и дополнувањата на Договорот за слободна трговија меѓу Република Македонија и ЕФТА држави

@@ -10,7 +10,7 @@ in_force_from: 2025-08-13
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71293"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за училишта за средно образование на верските заедници

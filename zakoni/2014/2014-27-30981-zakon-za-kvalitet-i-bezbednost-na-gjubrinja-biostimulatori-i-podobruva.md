@@ -10,7 +10,7 @@ in_force_from: 2014-02-13
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30981"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за квалитет и безбедност на ѓубриња, биостимулатори и подобрувачи на својствата на почвата

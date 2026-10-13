@@ -10,7 +10,7 @@ in_force_from: 1993-05-10
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3502"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за претворање на краткорочните кредити од примарната емисија во долгорочни кредити

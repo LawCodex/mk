@@ -10,7 +10,7 @@ in_force_from: 2021-04-06
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55654"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Северна Македонија со заем кај Европската банка за обнова и развој по Договорот за заем за финансирање на Проектот „Воведување на брз автобуски превоз во Град Скопје“

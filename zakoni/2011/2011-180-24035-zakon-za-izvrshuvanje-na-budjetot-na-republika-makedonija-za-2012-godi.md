@@ -10,7 +10,7 @@ in_force_from: 2011-12-26
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24035"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за извршување на Буџетот на Република Македонија за 2012 година

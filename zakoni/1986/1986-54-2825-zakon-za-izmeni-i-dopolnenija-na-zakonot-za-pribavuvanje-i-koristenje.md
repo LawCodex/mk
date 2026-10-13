@@ -10,7 +10,7 @@ in_force_from: 1986-10-11
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=2825"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за измени и дополненија на Законот за прибавување и користење на странски средства за зголемување на вработеноста и вработување на повратниците од работа од странство

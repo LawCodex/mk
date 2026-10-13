@@ -10,7 +10,7 @@ in_force_from: 2013-04-24
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28133"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот меѓу Македонската влада и Владата на Сојузна Република Германија за гробовите на воените жртви

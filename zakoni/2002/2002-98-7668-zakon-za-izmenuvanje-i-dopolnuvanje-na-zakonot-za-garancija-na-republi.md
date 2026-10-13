@@ -10,7 +10,7 @@ in_force_from: 2002-12-28
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7668"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за изменување и дополнување на Законот за гаранција на Република Македонија по Договорите за заеми по Проектот ХЕЦ "Козјак" со Кинеската банка и фирмата Хаинан С.И.Т. Ентерпраис Корп

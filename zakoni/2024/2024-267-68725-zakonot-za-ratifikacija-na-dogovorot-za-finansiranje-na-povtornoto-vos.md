@@ -10,7 +10,7 @@ in_force_from: 2025-01-02
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68725"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Законот за ратификација на Договорот за финансирање на повторното воспоставување заедничка постојана поставка во блокот 17 на Државниот музеј Аушвиц- Биркенау

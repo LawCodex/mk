@@ -10,7 +10,7 @@ in_force_from: 2013-01-31
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27400"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за продажба и давање под закуп на деловните згради и деловните простории на Република Македонија

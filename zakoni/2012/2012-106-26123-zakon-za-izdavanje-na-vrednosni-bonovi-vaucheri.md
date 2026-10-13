@@ -10,7 +10,7 @@ in_force_from: 2012-08-24
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26123"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за издавање нa вредносни бонови - ваучери

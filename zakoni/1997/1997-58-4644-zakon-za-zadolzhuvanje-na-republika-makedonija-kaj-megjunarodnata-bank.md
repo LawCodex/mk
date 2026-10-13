@@ -10,7 +10,7 @@ in_force_from: 1997-11-17
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4644"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија кај Меѓународната Банка за обнова и развој по Проектот рехабилитација и преструктуирање на наводнувањето

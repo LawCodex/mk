@@ -10,7 +10,7 @@ in_force_from: 2015-06-12
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37581"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за отпишување на камати на достасани обврски по основ на придонеси од задолжително социјално осигурување

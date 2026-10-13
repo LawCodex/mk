@@ -10,7 +10,7 @@ in_force_from: 2012-01-07
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24118"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија кај Меѓународната банка за обнова и развој - Светската банка по Договорот за заем за финансирање на Проектот за осигурување од природни катастрофи

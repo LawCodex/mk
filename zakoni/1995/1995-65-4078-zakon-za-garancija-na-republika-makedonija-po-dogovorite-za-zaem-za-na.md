@@ -10,7 +10,7 @@ in_force_from: 1995-12-29
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4078"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за гаранција на Република Македонија по договорите за заем за набавка на опрема за ЈП "Електростопанство на Македонија"-погон РЕК на Осломеј

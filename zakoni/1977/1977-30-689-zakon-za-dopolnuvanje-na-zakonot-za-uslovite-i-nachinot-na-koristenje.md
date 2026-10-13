@@ -10,7 +10,7 @@ in_force_from: 1977-06-14
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=689"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за дополнување на Законот за условите и начинот на користење на средствата на солидарноста за отстранување на последиците од елементарни непогоди во Социјалистичка Република Македонија

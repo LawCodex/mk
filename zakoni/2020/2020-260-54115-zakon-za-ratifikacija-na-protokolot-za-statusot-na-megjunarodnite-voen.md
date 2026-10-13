@@ -10,7 +10,7 @@ in_force_from: 2020-11-03
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54115"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Протоколот за статусот на Меѓународните воени команди воспоставени во согласност со Северноатланскиот Договор

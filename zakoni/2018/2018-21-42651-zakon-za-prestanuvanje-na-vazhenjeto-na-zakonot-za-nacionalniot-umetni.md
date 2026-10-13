@@ -10,7 +10,7 @@ in_force_from: 2018-02-10
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42651"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за престанување на важењето на Законот за националниот уметник на Република Македонија

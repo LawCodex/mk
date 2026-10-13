@@ -10,7 +10,7 @@ in_force_from: 1976-03-20
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=822"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за дополнување на Законот за формирање на средства на солидарноста на СР Македонија за отстранување на последиците од елементарни непогоди за воведување "Недела на солидарност"

@@ -10,7 +10,7 @@ in_force_from: 1998-07-10
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5154"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија кај Европската инвестициона банка по договор за кредит

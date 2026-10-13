@@ -10,7 +10,7 @@ in_force_from: 2023-04-01
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62589"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Протоколот 16 кон Европската конвенција за заштита на човековите права и основните слободи

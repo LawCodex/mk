@@ -10,7 +10,7 @@ in_force_from: 2009-02-07
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16573"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата меѓу Владата на Република Македонија и Владата на Словачката Република за заемна заштита на класифицирани информации

@@ -10,7 +10,7 @@ in_force_from: 2016-03-30
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40975"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот меѓу Република Македонија и Црна Гора за правна помош во граѓански и кривични предмети

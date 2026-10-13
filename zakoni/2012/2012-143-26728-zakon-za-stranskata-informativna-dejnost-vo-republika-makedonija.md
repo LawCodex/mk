@@ -10,7 +10,7 @@ in_force_from: 2012-11-22
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26728"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за странскатa информативна дејност во Република Македонија

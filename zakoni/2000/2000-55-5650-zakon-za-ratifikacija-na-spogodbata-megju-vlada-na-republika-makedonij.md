@@ -10,7 +10,7 @@ in_force_from: 2000-07-25
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5650"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата меѓу Влада на Република Македонија и Швајцарскиот Федерален совет за одбегнување на двојното оданочување и по однос на данокот на доход и данокот на капитал

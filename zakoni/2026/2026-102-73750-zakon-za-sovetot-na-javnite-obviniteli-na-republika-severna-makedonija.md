@@ -10,7 +10,7 @@ in_force_from: 2026-05-02
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73750"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за Советот на јавните обвинители на Република Северна Македонија

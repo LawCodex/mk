@@ -10,7 +10,7 @@ in_force_from: 2013-01-03
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27066"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за упатување работници од Република Македонија во други држави за изведување на градежни работи преку проектни договори и за вршење на други сезонски работи

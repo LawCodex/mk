@@ -10,7 +10,7 @@ in_force_from: 2010-10-16
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20434"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Протоколот за регистри на загадувачки и пренос на загадувачки материи

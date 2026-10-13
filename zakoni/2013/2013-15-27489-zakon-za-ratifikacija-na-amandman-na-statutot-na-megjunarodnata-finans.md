@@ -10,7 +10,7 @@ in_force_from: 2013-02-02
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27489"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Амандман на Статутот на Меѓународната финансиска корпорација

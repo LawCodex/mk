@@ -10,7 +10,7 @@ in_force_from: 1991-11-17
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Уставен закон за спроведување на Уставот на Република Македонија

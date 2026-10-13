@@ -10,7 +10,7 @@ in_force_from: 2009-01-31
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16518"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот меѓу Владата на Република Македонија и Советот на министри на Босна и Херцеговина за преземање на лица со незаконски престој

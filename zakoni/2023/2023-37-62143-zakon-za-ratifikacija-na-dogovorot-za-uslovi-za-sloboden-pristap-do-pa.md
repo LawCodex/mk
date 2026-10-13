@@ -10,7 +10,7 @@ in_force_from: 2023-02-28
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62143"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот за услови за слободен пристап до пазарот на трудот во Западен Балкан

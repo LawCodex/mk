@@ -10,7 +10,7 @@ in_force_from: 1978-05-06
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=862"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за решавање на судирот на надлежности, за изземањето на службените лица и за органите надлежни за решавање по жалба во управната постапка

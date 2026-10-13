@@ -10,7 +10,7 @@ in_force_from: 2013-05-22
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28333"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за воведување на систем за управување со квалитетот и заедничката рамка за процена на работењето и давањето на услуги во државната служба

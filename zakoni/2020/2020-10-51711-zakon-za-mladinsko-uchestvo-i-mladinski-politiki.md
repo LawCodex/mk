@@ -10,7 +10,7 @@ in_force_from: 2020-01-24
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51711"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за младинско учество и младински политики

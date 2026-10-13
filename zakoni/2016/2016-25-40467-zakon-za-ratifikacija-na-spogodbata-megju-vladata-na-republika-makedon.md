@@ -10,7 +10,7 @@ in_force_from: 2016-02-18
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40467"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата меѓу Владата на Република Македонија и Владата на Република Србија за соработка во областа на образованието, науката и технологијата

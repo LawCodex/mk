@@ -10,7 +10,7 @@ in_force_from: 2002-06-26
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7185"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за изменување и дополнување на Законот за попис на населението, домаќинствата и становите во Република Македонија, 2002 година

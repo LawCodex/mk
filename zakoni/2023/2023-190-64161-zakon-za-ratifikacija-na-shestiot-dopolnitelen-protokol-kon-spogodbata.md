@@ -10,7 +10,7 @@ in_force_from: 2023-09-20
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64161"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Шестиот дополнителен Протокол кон Спогодбата за Мултинационалните мировни сили на Југоисточна Европа

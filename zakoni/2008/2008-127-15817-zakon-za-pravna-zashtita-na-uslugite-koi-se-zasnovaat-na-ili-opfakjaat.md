@@ -10,7 +10,7 @@ in_force_from: 2008-10-17
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15817"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за правна заштита на услугите кои се засноваат на, или опфаќаат, условен пристап

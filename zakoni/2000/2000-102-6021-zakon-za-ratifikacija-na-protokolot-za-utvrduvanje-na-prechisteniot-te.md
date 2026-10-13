@@ -10,7 +10,7 @@ in_force_from: 2000-12-14
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6021"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Протоколот за утврдување на Пречистениот текст на Меѓународната Конвенција на EUROCONTROL за соработка во безбедноста на воздушниот сообраќај од 13 Декември 1960, со разните измени и дополненија

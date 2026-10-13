@@ -10,7 +10,7 @@ in_force_from: 2011-02-08
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21336"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата за научна и технолошка соработка меѓу Владата на Република Македонија и Владата на Црна Гора

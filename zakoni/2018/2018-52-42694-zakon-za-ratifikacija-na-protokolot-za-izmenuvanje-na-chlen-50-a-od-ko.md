@@ -10,7 +10,7 @@ in_force_from: 2018-03-30
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42694"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Протоколот за изменување на член 50 (а) од Конвенцијата за меѓународно цивилно воздухопловство

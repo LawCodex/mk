@@ -10,7 +10,7 @@ in_force_from: 1974-01-05
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=658"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за финансирање на осигурувањето на извозните работи против некомерцијални ризици

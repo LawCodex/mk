@@ -10,7 +10,7 @@ in_force_from: 2000-05-24
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6030"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија кај Банката за развој при Советот на Европа по договорот за заем по "Проектот за изградба на станови кои ќе се издаваат на лицата со ниски приходи"

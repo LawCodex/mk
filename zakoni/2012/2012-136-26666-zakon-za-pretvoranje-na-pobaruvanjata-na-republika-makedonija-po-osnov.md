@@ -10,7 +10,7 @@ in_force_from: 2012-11-13
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26666"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за претворање на побарувањата на Република Македонија по основ на данок на добивка, персонален данок на доход и платени обврски кон странски кредитори во траен влог во ЈП МЖ Инфраструктура Скопје

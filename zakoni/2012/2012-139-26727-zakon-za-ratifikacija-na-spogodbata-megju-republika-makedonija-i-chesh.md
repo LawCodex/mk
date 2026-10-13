@@ -10,7 +10,7 @@ in_force_from: 2012-11-15
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26727"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата меѓу Република Македонија и Чешката Република за мeѓународен превоз во патниот сообраќај

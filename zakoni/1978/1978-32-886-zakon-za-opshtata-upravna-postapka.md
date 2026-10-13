@@ -10,7 +10,7 @@ in_force_from: 1978-03-11
 status: in_force
 text_version: consolidated
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=886"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за општата управна постапка

@@ -10,7 +10,7 @@ in_force_from: 2016-01-23
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40129"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот за економска соработка меѓу владата на Република Македонија и Владата на Социјалистичка Република Виетнам

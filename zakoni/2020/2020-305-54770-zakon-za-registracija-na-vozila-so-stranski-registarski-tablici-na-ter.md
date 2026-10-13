@@ -10,7 +10,7 @@ in_force_from: 2020-12-22
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54770"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за регистрација на возила со странски регистарски таблици на територијата на Република Северна Македонија

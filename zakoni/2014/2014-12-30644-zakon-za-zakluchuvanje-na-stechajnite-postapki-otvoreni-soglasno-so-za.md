@@ -10,7 +10,7 @@ in_force_from: 2014-01-30
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30644"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за заклучување на стечајните постапки отворени согласно со Законот за присилно порамнување стечај и ликвидација и Законот за стечај

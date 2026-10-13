@@ -10,7 +10,7 @@ in_force_from: 2015-01-30
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=35287"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за високообразовните установи за образование на наставен кадар во предучилишното воспитание, основното и средното образование

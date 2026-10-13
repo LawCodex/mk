@@ -10,7 +10,7 @@ in_force_from: 1985-04-27
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1354"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за обезбедување средства за купување на станови за службени потреби за републичките органи и организации и општествено - политичките организации на Републиката

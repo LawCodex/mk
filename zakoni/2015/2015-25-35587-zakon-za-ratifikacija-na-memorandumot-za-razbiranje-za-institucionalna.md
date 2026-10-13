@@ -10,7 +10,7 @@ in_force_from: 2015-02-26
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=35587"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Меморандумот за разбирање за институционалната рамка на Иницијативата за превенција и подготвеност во случај на катастрофи на Југоисточна Европа

@@ -10,7 +10,7 @@ in_force_from: 2007-09-28
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67593"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за правната положба на црква, верска заедница и религиозна група

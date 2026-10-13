@@ -10,7 +10,7 @@ in_force_from: 2012-08-07
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25931"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договор за заштита и одржлив развој на Паркот Преспа

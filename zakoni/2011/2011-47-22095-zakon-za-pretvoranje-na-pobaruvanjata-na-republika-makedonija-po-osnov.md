@@ -10,7 +10,7 @@ in_force_from: 2011-04-08
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22095"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за претворање на побарувањата на Република Македонија по основ на позајмици во траен влог во Друштвото А.Д. Органско хемиска индустрија „Наум Наумовски - Борче“ Скопје

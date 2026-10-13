@@ -10,7 +10,7 @@ in_force_from: 1995-12-11
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4067"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија кај Европската банка за обнова и развој за реализација на Проектот за реконструкција на Аеродромот "Скопје"

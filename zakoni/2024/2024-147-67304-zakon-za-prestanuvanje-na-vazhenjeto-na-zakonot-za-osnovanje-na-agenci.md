@@ -10,7 +10,7 @@ in_force_from: 2024-07-15
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67304"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за престанување на важењето на Законот за основање на Агенција за енергетика на Република Северна Македонија

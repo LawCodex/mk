@@ -10,7 +10,7 @@ in_force_from: 2025-06-13
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70554"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Конвенција за спречување на незаконски дејствија поврзани со меѓународното цивилно воздухопловство

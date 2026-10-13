@@ -10,7 +10,7 @@ in_force_from: 2015-06-05
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37355"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот меѓу Владата на Република Македонија и Владата на Социјалистичка Република Виетнам за заемно поттикнување и заштита на инвестиции

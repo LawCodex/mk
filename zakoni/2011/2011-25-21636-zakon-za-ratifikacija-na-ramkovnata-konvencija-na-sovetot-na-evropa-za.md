@@ -10,7 +10,7 @@ in_force_from: 2011-03-08
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21636"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Рамковната конвенција на Советот на Европа за значењето на културното наследство во општеството

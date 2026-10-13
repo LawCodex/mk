@@ -10,7 +10,7 @@ in_force_from: 2020-11-11
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54113"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Дополнителниот протокол за привилегии и имунитети на Организацијата за црноморска економска соработка

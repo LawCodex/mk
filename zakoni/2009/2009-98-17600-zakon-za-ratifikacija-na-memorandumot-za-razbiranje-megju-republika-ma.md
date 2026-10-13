@@ -10,7 +10,7 @@ in_force_from: 2009-08-12
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17600"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Меморандумот за разбирање меѓу Република Македонија и Европската Заедница за учеството на Република Македонија во Програмата на Заедницата "FISCALIS 2013"

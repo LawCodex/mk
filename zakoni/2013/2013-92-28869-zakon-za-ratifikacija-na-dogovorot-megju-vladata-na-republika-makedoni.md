@@ -10,7 +10,7 @@ in_force_from: 2013-07-09
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28869"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот меѓу Владата на Република Македонија и Владата на Република Косово за потврдување на периодите на осигурување за остварување право на пензија

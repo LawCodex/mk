@@ -10,7 +10,7 @@ in_force_from: 2025-12-03
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72128"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на измените и дополнувањата на Конвенцијата за заедничка транзитна постапка

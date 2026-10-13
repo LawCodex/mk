@@ -10,7 +10,7 @@ in_force_from: 1990-05-25
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1588"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за привремени мерки за претворање на дел од краткорочните кредити од примарната емисија во долгорочни кредити

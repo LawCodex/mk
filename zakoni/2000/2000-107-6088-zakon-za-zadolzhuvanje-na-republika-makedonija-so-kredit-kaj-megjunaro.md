@@ -10,7 +10,7 @@ in_force_from: 2000-12-27
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6088"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија со кредит кај Меѓународниот фонд за развој на земјоделството, ИФАД, за реализација на Проектот за финансиски услуги во земјоделството

@@ -10,7 +10,7 @@ in_force_from: 2008-11-10
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15908"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за придонеси од задолжително социјално осигурување

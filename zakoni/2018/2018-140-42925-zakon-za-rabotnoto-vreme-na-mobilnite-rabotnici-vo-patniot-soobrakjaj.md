@@ -10,7 +10,7 @@ in_force_from: 2018-07-07
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42925"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за работното време на мобилните работници во патниот сообраќај и уредите за запишување во патниот сообраќај

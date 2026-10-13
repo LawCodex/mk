@@ -10,7 +10,7 @@ in_force_from: 1997-08-08
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4639"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за вработувањето и осигурување во случај на невработеност

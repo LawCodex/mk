@@ -10,7 +10,7 @@ in_force_from: 1995-12-30
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4074"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за гаранција на Република Македонија по Договор за заем за проектот кредитна линија за мали и средни претпријатија

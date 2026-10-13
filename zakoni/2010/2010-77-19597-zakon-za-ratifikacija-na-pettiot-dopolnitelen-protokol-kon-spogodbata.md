@@ -10,7 +10,7 @@ in_force_from: 2010-06-16
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19597"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Петтиот дополнителен протокол кон Спогодбата за мултинационалните мировни сили на Југоисточна Европа

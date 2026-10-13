@@ -10,7 +10,7 @@ in_force_from: 2023-07-29
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63696"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот за правниот статус на мисиите и претставниците на трети држави при Организацијата на Северноатлантскиот договор

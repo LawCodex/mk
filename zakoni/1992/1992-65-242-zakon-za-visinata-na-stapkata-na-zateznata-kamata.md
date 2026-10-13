@@ -10,7 +10,7 @@ in_force_from: 1992-11-05
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=242"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за висината на стапката на затезната камата

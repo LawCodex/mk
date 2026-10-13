@@ -10,7 +10,7 @@ in_force_from: 1995-06-15
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3885"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за обезбедување на средства за санирање на последиците од земјотресот во општините Битола, Демир Хисар, Охрид и Ресен

@@ -10,7 +10,7 @@ in_force_from: 2012-01-31
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24396"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договор за соработка меѓу Владата на Република Македонија и Советот на министрите на Република Албанија во контекст на процесот на пристапување кон Европската унија

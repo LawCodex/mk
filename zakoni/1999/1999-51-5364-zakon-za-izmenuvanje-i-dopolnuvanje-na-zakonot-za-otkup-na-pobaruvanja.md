@@ -10,7 +10,7 @@ in_force_from: 1999-08-17
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5364"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за изменување и дополнување на Законот за откуп на побарувањата на правните лица од Република Македонија, од Ирак и Кувајт, од страна на Република Македонија

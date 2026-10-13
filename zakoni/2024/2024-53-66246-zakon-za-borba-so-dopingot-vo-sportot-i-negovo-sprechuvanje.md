@@ -10,7 +10,7 @@ in_force_from: 2024-03-12
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66246"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за борба со допингот во спортот и негово спречување

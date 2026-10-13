@@ -10,7 +10,7 @@ in_force_from: 2008-12-22
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16222"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за отпишување на камати на доспеани обврски по основ на даноци и придонеси за задолжително социјално осигурување

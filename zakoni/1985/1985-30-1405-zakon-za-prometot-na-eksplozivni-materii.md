@@ -10,7 +10,7 @@ in_force_from: 1985-06-29
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1405"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за прометот на експлозивни материи

@@ -10,7 +10,7 @@ in_force_from: 2014-11-07
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34227"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот меѓу Република Македонија и Република Италија за социјална сигурност

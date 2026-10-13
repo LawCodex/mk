@@ -10,7 +10,7 @@ in_force_from: 2002-08-03
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6958"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за дополнување на Законот за ревизијата

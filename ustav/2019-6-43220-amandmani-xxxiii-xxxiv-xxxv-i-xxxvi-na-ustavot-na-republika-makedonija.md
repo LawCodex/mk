@@ -10,7 +10,7 @@ in_force_from: 2019-01-11
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43220"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Амандмани XXXIII, XXXIV, XXXV И XXXVI на Уставот на Република Македонија

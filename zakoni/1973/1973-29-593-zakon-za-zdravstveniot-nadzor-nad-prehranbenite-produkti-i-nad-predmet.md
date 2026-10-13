@@ -10,7 +10,7 @@ in_force_from: 1973-06-08
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=593"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за здравствениот надзор над прехранбените продукти и над предметите за општа употреба

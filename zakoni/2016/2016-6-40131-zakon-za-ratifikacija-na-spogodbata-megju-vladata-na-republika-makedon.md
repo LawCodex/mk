@@ -10,7 +10,7 @@ in_force_from: 2016-01-23
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40131"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на спогодбата меѓу Владата на Република Македонија и Владата на Република Косово за соработка во областа на образованието и науката

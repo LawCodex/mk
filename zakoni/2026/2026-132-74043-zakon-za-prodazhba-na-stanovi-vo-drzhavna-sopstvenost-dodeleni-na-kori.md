@@ -10,7 +10,7 @@ in_force_from: 2026-06-25
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74043"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за продажба на станови во државна сопственост доделени на користење на вработени во Министерството за внатрешни работи

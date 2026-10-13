@@ -10,7 +10,7 @@ in_force_from: 2015-08-01
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37988"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата меѓу Република Македонија и Европската унија за учество на Република Македонија во Програмата на Европската унија „Вработување и социјални иновации"

@@ -10,7 +10,7 @@ in_force_from: 2011-09-09
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23196"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Дополнителниот протокол кон Договорот за изменување и пристапување кон Централноевропскиот договор за слободна трговија

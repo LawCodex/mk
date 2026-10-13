@@ -10,7 +10,7 @@ in_force_from: 2018-03-06
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42688"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот меѓу Македонската Влада и Израелската Влада за одбегнување на двојното оданочување и за заштита од фискална евазија по однос на даноците на доход

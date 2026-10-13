@@ -10,7 +10,7 @@ in_force_from: 2018-01-05
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42620"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Дополнителен билатерален договор кон Европската конвенција за меѓусебна правна помош во кривичните предмети од 20.04.1959 година, со цел олеснување на нејзината примена

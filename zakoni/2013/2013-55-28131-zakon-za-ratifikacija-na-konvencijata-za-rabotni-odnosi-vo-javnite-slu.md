@@ -10,7 +10,7 @@ in_force_from: 2013-04-24
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28131"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Конвенцијата за работни односи во јавните служби, 1978 (бр. 151)

@@ -10,7 +10,7 @@ in_force_from: 1966-05-19
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=458"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за надоместоците на сведоците, вештаците и толкувачите во управната постапка

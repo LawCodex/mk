@@ -10,7 +10,7 @@ in_force_from: 2002-08-03
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6949"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија кај Европската банка за обнова и развој по Договорот за кредит за Проектот за унапредување на Цивилната воздушна пловидба

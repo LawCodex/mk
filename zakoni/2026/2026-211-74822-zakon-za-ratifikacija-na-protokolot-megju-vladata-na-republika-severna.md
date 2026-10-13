@@ -10,7 +10,7 @@ in_force_from: 2026-09-17
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74822"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Протоколот меѓу Владата на Република Северна Македонија и Владата на Република Литванија за спроведување на Спогодбата за преземање на лица кои престојуваат без дозвола

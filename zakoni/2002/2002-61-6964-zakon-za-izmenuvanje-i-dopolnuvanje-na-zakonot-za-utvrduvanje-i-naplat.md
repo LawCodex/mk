@@ -10,7 +10,7 @@ in_force_from: 2002-08-03
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6964"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за изменување и дополнување на Законот за утврдување и наплата на јавните приходи

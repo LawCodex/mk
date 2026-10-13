@@ -10,7 +10,7 @@ in_force_from: 1999-05-20
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5268"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија со кредит кај Меѓународното здружение за развој по Договорот за Проектот за ургентен увоз

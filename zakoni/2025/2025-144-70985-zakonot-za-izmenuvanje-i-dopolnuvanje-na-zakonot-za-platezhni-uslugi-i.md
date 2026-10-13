@@ -10,7 +10,7 @@ in_force_from: 2025-07-17
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70985"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Законот за изменување и дополнување на Законот за платежни услуги и платни системи

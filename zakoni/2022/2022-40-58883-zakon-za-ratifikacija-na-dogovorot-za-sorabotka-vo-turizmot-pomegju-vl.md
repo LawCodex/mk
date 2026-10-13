@@ -10,7 +10,7 @@ in_force_from: 2022-03-03
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58883"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот за соработка во туризмот помеѓу Владата на Република Северна Македонија и Владата на Република Косово

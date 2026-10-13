@@ -10,7 +10,7 @@ in_force_from: 2026-09-18
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74856"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за за изменување и дополнување на Законот за катастар на недвижности

@@ -10,7 +10,7 @@ in_force_from: 2020-02-24
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52054"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за управување со движењето на предметите во судовите

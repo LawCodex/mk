@@ -10,7 +10,7 @@ in_force_from: 2023-07-21
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63694"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Протоколот за вода и здравје на Конвенцијата од 1992 година за заштита и користење на прекуграничните водотеци и меѓународни езера

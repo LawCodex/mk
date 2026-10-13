@@ -10,7 +10,7 @@ in_force_from: 2021-07-30
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57044"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за материјално обезбедување на невработените лица поради приватизацијата на претпријатијата со доминантна сопственост на државата

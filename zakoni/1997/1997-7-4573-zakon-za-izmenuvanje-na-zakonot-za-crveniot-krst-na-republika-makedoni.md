@@ -10,7 +10,7 @@ in_force_from: 1997-02-28
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4573"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за изменување на Законот за Црвениот крст на Република Македонија

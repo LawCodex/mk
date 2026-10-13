@@ -10,7 +10,7 @@ in_force_from: 1997-04-05
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4667"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за преземање на дел од долгот по новата финансиска спогодба од 1988 година и за издавање на обврзници на Република Македонија заради замена на тој долг

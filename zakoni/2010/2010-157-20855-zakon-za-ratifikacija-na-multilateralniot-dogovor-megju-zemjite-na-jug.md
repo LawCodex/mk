@@ -10,7 +10,7 @@ in_force_from: 2010-12-16
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20855"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Мултилатералниот договор меѓу земјите на Југоисточна Европа за спроведување на Конвенцијата за оценување на влијанијата врз животната средина во прекуграничен контекст

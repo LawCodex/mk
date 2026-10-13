@@ -10,7 +10,7 @@ in_force_from: 2010-02-09
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18827"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за плаќање на рати на даночни долгови на јавните претпријатија и трговски друштва основани од Република Македонија, односно од општините или градот Скопје

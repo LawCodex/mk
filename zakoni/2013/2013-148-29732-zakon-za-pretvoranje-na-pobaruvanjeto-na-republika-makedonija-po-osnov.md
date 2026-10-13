@@ -10,7 +10,7 @@ in_force_from: 2013-10-29
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29732"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за претворање на побарувањето на Република Македонија по основ на јавни давачки во траен влог во друштвото Тутунски комбинат АД Прилеп

@@ -10,7 +10,7 @@ in_force_from: 2026-01-07
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72546"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Дополнителниот Протокол 7 за решавање спорови на Договорот за изменување и пристапување кон Централноевропскиот договор за слободна трговија

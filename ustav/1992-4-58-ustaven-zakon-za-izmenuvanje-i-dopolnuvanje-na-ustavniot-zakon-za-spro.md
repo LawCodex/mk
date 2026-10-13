@@ -10,7 +10,7 @@ in_force_from: 1992-01-22
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Уставен закон за изменување и дополнување на Уставниот закон за спроведување на Уставот на Република Македонија

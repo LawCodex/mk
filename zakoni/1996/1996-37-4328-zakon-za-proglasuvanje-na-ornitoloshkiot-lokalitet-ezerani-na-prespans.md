@@ -10,7 +10,7 @@ in_force_from: 1996-08-06
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4328"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за прогласување на орнитолошкиот локалитет "Езерани" на Преспанското Езеро, за строг природен резерват

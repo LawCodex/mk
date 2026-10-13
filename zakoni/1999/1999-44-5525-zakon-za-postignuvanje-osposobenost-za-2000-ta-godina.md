@@ -10,7 +10,7 @@ in_force_from: 1999-07-17
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5525"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за постигнување оспособеност за 2000-та година

@@ -10,7 +10,7 @@ in_force_from: 2015-11-07
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39285"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за гаранција на Република Македонија на обврските по Договорот за заем за финансирање на патната делница Штип - Радовиш, кој ќе се склучи меѓу Европската банка за обнова и развој и ЈП за државни патишта

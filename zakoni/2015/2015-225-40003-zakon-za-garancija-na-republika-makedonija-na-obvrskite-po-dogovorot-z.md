@@ -10,7 +10,7 @@ in_force_from: 2015-12-24
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40003"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за гаранција на Република Македонија на обврските по Договорот за заем за финансирање на проектот Топлификација на Битола, кој ќе се склучи меѓу Кредитната банка за обнова-КфВ и АД ЕЛЕМ

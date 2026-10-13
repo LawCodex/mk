@@ -10,7 +10,7 @@ in_force_from: 2012-08-03
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25915"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за прогласување на споменичката целина Крушево за културно наследство од особено значење

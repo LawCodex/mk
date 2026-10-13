@@ -10,7 +10,7 @@ in_force_from: 2000-04-21
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5883"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за начинот и постапката на исплатување на депонираните девизни влогови на граѓаните по кои гарант е Република Македонија

@@ -10,7 +10,7 @@ in_force_from: 2014-01-08
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30426"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Меморандумот за разбирање за соработка во здравството меѓу Владата на Република Македонија и Владата на Државата Катар

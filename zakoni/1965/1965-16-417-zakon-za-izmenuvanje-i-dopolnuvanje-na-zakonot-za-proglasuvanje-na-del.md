@@ -10,7 +10,7 @@ in_force_from: 1965-04-14
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=417"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за изменување и дополнување на Законот за прогласување на дел од горските предели на Пелистер планина за национален парк

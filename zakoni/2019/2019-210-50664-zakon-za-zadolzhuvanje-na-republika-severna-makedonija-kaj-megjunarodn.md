@@ -10,7 +10,7 @@ in_force_from: 2019-10-12
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50664"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Северна Македонија кај Меѓународната банка за обнова и развој - Светска банка по Договорот за заем за развојни политики за јавни финансии и конкурентност

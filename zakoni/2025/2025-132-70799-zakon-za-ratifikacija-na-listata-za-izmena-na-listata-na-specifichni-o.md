@@ -10,7 +10,7 @@ in_force_from: 2025-07-09
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70799"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Листата за измена на Листата на специфични обврски и Дисциплини за домашна регулатива во услугите

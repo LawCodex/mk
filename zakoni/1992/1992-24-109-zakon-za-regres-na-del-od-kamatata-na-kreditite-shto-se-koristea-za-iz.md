@@ -10,7 +10,7 @@ in_force_from: 1992-04-15
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=109"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за регрес на дел од каматата на кредитите што се користеа за изведување на инвестициони работи во странство на кредит

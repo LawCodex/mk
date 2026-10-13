@@ -10,7 +10,7 @@ in_force_from: 2010-07-01
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19666"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Ротердамската конвенција за постапка за претходно добивање на согласност за одредени опасни хемикалии и пестициди во меѓународниот промет

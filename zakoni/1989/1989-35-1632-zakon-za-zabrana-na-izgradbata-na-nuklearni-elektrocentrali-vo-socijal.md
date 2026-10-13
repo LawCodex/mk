@@ -10,7 +10,7 @@ in_force_from: 1989-06-24
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1632"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за забрана на изградбата на нуклеарни електроцентрали во Социјалистичка Федеративна Република Југославија

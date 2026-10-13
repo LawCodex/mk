@@ -10,7 +10,7 @@ in_force_from: 1998-07-02
 status: in_force
 text_version: consolidated
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5298"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за превоз во патниот сообраќај

@@ -10,7 +10,7 @@ in_force_from: 2019-12-23
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51260"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за извршување на Буџетот на Република Северна Македонија за 2020 година

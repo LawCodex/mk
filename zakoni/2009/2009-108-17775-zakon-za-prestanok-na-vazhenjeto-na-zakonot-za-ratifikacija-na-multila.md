@@ -10,7 +10,7 @@ in_force_from: 2009-09-08
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17775"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за престанок на важењето на Законот за ратификација на мултилатералната спогодба за комерцијални права за нередовен воздушен сообраќај во Европа

@@ -10,7 +10,7 @@ in_force_from: 2012-09-25
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26276"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот меѓу Република Македонија и државата Кувајт за одбегнување на двојното оданочување и за заштита од фискална евазија по однос на даноците на доход и на капитал

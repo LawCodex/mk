@@ -10,7 +10,7 @@ in_force_from: 2009-06-06
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17197"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за застапување на Република Македонија пред Европскиот суд за човекови права

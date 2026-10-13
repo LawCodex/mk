@@ -10,7 +10,7 @@ in_force_from: 2019-08-13
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50080"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за наставниците и стручните соработници во основните и средните училишта

@@ -10,7 +10,7 @@ in_force_from: 2012-06-23
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25600"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот меѓу Владата на Република Македонија и Швајцарскиот сојузен совет за преземање на лица кои престојуваат без дозвола

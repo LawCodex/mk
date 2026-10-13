@@ -10,7 +10,7 @@ in_force_from: 2009-09-14
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17755"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија со заем кај Кредитната банка за обнова - КФВ по Договорот за заем по Проектот “Водовод и канализација на општините фаза I“

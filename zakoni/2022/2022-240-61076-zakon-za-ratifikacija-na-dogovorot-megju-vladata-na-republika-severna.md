@@ -10,7 +10,7 @@ in_force_from: 2022-11-17
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61076"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот меѓу Владата на Република Северна Македонија и Советот на министри на Република Албанија за соработка во областа на дијаспората

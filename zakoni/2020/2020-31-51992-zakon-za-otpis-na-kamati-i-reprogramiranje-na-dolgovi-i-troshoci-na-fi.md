@@ -10,7 +10,7 @@ in_force_from: 2020-02-18
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51992"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за отпис на камати и репрограмирање на долгови и трошоци на физички лица

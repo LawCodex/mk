@@ -10,7 +10,7 @@ in_force_from: 2010-06-15
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19580"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за управување со светското природно и културно наследство во Охридскиот регион

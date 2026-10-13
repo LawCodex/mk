@@ -10,7 +10,7 @@ in_force_from: 2019-12-18
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51209"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Северна Македонија со заем кај Кредитната банка за обнова – КфВ по Договорот за заем за финансирање на Програмата за наводнување на Северна Македонија

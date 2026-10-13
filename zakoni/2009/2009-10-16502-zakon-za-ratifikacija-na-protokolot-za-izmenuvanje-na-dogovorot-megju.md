@@ -10,7 +10,7 @@ in_force_from: 2009-01-31
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16502"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Протоколот за изменување на Договорот меѓу Македонската влада и Романската влада за поттикнување и заемна заштита на инвестициите потпишан во Букурешт на 12 јуни 2000 година

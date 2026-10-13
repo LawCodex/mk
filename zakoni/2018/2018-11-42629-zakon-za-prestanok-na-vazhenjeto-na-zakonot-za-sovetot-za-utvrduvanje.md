@@ -10,7 +10,7 @@ in_force_from: 2018-01-18
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42629"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за престанок на важењето на Законот за Советот за утврдување на факти и покренување на постапка за утврдување одговорност за судија

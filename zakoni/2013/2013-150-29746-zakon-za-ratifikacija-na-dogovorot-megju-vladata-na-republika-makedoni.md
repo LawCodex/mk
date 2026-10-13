@@ -10,7 +10,7 @@ in_force_from: 2013-11-08
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29746"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот меѓу Владата на Република Македонија и Владата на Федеративна Република Бразил за соработка во областа на образованието

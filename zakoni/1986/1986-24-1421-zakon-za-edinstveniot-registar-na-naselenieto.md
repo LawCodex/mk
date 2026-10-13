@@ -10,7 +10,7 @@ in_force_from: 1986-05-10
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1421"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за Единствениот регистар на населението

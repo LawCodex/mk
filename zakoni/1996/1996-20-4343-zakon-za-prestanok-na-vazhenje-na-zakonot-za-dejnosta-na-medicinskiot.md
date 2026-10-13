@@ -10,7 +10,7 @@ in_force_from: 1996-05-03
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4343"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за престанок на важење на Законот за дејноста на Медицинскиот факултет за укажување на здравствена заштита

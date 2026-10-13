@@ -10,7 +10,7 @@ in_force_from: 2012-04-03
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24949"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата меѓу Владата на Република Македонија и Владата на Руската Федерација за соработка во областа на железничкиот сообраќај

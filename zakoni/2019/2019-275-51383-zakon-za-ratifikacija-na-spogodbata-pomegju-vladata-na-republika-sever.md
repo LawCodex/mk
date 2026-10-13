@@ -10,7 +10,7 @@ in_force_from: 2020-01-04
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51383"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата помеѓу Владата на Република Северна Македонија и Владата на Република Франција која се однесува на средните училишта со франкофонски двојазични паралелки

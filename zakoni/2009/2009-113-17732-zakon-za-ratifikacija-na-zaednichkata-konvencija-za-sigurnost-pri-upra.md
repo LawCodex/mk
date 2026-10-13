@@ -10,7 +10,7 @@ in_force_from: 2009-09-19
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17732"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Заедничката конвенција за сигурност при управување со искористено нуклеарно гориво и сигурност при управување со радиоактивен отпад

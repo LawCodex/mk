@@ -10,7 +10,7 @@ in_force_from: 2023-02-28
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62144"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот за интерконекција на шеми за електронска идентификација на граѓаните од Западен Балкан

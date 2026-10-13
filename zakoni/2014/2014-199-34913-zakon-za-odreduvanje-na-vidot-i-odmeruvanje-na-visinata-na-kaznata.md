@@ -10,7 +10,7 @@ in_force_from: 2015-01-07
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34913"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за одредување на видот и одмерување на висината на казната

@@ -10,7 +10,7 @@ in_force_from: 2024-12-28
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68688"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот за соработка во заштита од катастрофи во Западен Балкан

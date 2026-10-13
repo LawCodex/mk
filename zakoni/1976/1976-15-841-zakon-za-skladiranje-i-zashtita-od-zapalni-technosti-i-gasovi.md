@@ -10,7 +10,7 @@ in_force_from: 1976-04-24
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=841"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за складирање и заштита од запални течности и гасови

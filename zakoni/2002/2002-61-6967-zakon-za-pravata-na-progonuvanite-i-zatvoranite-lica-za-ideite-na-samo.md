@@ -10,7 +10,7 @@ in_force_from: 2002-08-03
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6967"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за правата на прогонуваните и затвораните лица за идеите на самобитноста на македонскиот народ и неговата државност и на членовите на нивните семејства

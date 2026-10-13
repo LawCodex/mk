@@ -10,7 +10,7 @@ in_force_from: 1979-04-07
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=898"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за измена на Законот за определување на надоместите за побарувањата по основ на социјално осигурување настанати во странство

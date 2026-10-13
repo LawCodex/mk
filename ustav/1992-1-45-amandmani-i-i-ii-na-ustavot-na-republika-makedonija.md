@@ -10,7 +10,7 @@ in_force_from: 1992-01-06
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=45"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Амандмани I и II на Уставот на Република Македонија

@@ -10,7 +10,7 @@ in_force_from: 2023-04-26
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62723"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на измените и дополнувањата на Договорот за слободна трговија меѓу Република Македонија и Украина

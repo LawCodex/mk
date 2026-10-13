@@ -10,7 +10,7 @@ in_force_from: 2013-02-23
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27637"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата меѓу Владата на Република Македонија и Советот на министри на Босна и Херцеговина за соработка во областа на здравството и медицинските науки

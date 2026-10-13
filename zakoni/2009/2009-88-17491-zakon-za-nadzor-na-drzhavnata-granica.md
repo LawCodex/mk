@@ -10,7 +10,7 @@ in_force_from: 2009-07-16
 status: in_force
 text_version: consolidated
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17491"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за надзор на државната граница

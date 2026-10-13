@@ -10,7 +10,7 @@ in_force_from: 1991-06-01
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=2043"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за материјално обезбедување на учесниците во Народноослободителната војна

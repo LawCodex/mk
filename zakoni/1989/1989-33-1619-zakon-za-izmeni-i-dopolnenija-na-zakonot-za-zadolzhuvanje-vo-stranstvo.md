@@ -10,7 +10,7 @@ in_force_from: 1989-06-10
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1619"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за измени и дополненија на Законот за задолжување во странство за рефинансирање на кредитите и земање финансиски кредити во периодот од 1988 до 1996 година

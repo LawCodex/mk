@@ -10,7 +10,7 @@ in_force_from: 2011-03-04
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21579"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за прогласување на пештерата "Слатински извор" за споменик на природата

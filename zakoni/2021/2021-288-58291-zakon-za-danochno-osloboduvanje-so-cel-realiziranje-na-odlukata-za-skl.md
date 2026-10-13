@@ -10,7 +10,7 @@ in_force_from: 2021-12-21
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58291"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за даночно ослободување со цел реализирање на одлуката за склучување на Анекс на Договорот за концесија за промена на намената на дел од средствата

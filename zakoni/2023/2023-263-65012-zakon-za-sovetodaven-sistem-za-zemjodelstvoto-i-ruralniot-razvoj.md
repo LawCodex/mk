@@ -10,7 +10,7 @@ in_force_from: 2023-12-20
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65012"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за советодавен систем за земјоделството и руралниот развој

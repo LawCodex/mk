@@ -10,7 +10,7 @@ in_force_from: 1991-11-17
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Устав на Република Македонија

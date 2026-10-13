@@ -10,7 +10,7 @@ in_force_from: 1987-11-08
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1469"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за измени и дополненија на Законот за пензиското и инвалидското осигурување на воените осигуреници

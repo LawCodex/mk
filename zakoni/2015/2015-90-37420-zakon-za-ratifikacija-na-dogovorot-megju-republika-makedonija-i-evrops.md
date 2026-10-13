@@ -10,7 +10,7 @@ in_force_from: 2015-06-10
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37420"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот меѓу Република Македонија и Европската Унија за учество на Република Македонија во Механизмот за цивилна заштита на Унијата

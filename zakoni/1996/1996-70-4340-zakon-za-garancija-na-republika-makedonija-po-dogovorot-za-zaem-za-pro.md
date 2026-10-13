@@ -10,7 +10,7 @@ in_force_from: 1996-12-27
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4340"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за гаранција на Република Македонија по Договорот за заем за проект за дистрибуција на гас во Скопје, што ќе се склучи меѓу Европската банка за обнова и развој и Јавното претпријатие ГА-МА

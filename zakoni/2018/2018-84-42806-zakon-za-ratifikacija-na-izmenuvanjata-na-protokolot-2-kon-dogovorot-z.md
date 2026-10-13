@@ -10,7 +10,7 @@ in_force_from: 2018-05-17
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42806"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на изменувањата на Протоколот 2 кон

@@ -10,7 +10,7 @@ in_force_from: 2021-07-30
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57050"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за финансиска поддршка за намалување на последиците предизвикани од COVID – 19 врз производството и откуп на тутун

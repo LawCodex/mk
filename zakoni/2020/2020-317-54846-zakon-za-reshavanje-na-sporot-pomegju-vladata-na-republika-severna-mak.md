@@ -10,7 +10,7 @@ in_force_from: 2020-12-31
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54846"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за решавање на спорот помеѓу Владата на Република Северна Македонија и МАКПЕТРОЛ АД Скопје по пат на спогодба

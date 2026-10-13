@@ -10,7 +10,7 @@ in_force_from: 2013-11-05
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29755"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за гаранција на Република Македонија на обврските по Договорот за заем за проектот „Модернизација на блок 1 во ТЕ Битола“, кој ќе се склучи меѓу Дојче банка и АД ЕЛЕМ

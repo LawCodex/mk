@@ -10,7 +10,7 @@ in_force_from: 1999-09-08
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5388"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за објавување на законите и другите приписи и акти во "Службен весник на Република Македонија"

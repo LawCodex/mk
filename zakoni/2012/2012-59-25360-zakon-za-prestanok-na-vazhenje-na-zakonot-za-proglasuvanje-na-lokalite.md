@@ -10,7 +10,7 @@ in_force_from: 2012-05-19
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25360"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за престанок на важење на Законот за прогласување на локалитетот Алшар за споменик на природата

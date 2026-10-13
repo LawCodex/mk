@@ -10,7 +10,7 @@ in_force_from: 2020-12-07
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54431"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за финансиска поддршка за намалување на последиците предизвикани од Корона вирусот COVID-19 врз производството, откупот на грозје и винската индустрија

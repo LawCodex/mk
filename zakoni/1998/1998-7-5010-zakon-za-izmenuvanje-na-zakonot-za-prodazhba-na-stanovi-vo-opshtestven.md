@@ -10,7 +10,7 @@ in_force_from: 1998-02-10
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5010"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за изменување на Законот за продажба на станови во општествена сопственост

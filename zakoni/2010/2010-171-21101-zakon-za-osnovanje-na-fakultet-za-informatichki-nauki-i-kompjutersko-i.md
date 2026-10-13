@@ -10,7 +10,7 @@ in_force_from: 2011-01-07
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21101"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за основање на Факултет за информатички науки и компјутерско инженерство во состав на Универзитетот „Св. Кирил и Методиј“ - Скопје

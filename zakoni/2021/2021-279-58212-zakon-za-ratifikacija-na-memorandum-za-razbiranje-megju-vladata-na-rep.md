@@ -10,7 +10,7 @@ in_force_from: 2021-12-23
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58212"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Меморандум за разбирање меѓу Владата на Република Северна Македонија и Владата на Република Турција за соработка во областа на шумарството

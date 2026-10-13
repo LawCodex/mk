@@ -10,7 +10,7 @@ in_force_from: 1996-09-20
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4148"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија кај Меѓународното здружение за развој за реализација на "Проектот за транзиција на здравствениот сектор"

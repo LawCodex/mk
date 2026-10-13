@@ -10,7 +10,7 @@ in_force_from: 1987-08-02
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1445"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за измени и дополненија на Законот за царинската служба

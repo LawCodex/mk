@@ -10,7 +10,7 @@ in_force_from: 2024-12-28
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68687"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Протоколот за изменување на Спогодбата од Маракеш за основање на Светската трговска организација, за прифаќање на Спогодбата за субвенции во рибарството

@@ -10,7 +10,7 @@ in_force_from: 2002-01-25
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7228"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија кај Меѓународното здружение за развој (ИДА) по Договорот за кредит за Проектот за развој на деца и младинци

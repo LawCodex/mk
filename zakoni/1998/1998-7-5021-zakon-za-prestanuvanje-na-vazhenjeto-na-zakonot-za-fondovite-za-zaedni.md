@@ -10,7 +10,7 @@ in_force_from: 1998-02-18
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5021"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за престанување на важењето на Законот за фондовите за заеднички резерви

@@ -10,7 +10,7 @@ in_force_from: 2018-01-26
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42650"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата меѓу Владата на Република Македонија и Владата на Обединетите Арапски Емирати за редовен воздушен сообраќај меѓу и вон нивните територии

@@ -10,7 +10,7 @@ in_force_from: 2018-12-25
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43198"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за извршување на Буџетот на Република Македонија за 2019 година

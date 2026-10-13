@@ -10,7 +10,7 @@ in_force_from: 1993-01-07
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=314"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за изменување на Законот за берзи на земјоделско - прехрамбените производи

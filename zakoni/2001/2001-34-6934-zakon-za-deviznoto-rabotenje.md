@@ -10,7 +10,7 @@ in_force_from: 2001-05-03
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6934"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за девизното работење

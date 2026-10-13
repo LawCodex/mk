@@ -10,7 +10,7 @@ in_force_from: 2000-12-21
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6118"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за гаранција на Република Македонија по Договорот за заем, за реализација на Проектот за мали и средни претпријатија од Кредитната банка за обнова ("KFW")

@@ -10,7 +10,7 @@ in_force_from: 2019-10-16
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50687"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за претворање на побарувањето на Република Северна Македонија по основ на јавни давачки во траен влог во Друштво за производство на производи со посебна намена 11 Октомври - Еурокомпозит АД Прилеп

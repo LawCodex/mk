@@ -10,7 +10,7 @@ in_force_from: 2014-01-08
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30433"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија кај Меѓународната банка за обнова и развој - Светската банка по договорот за заем за Проектот за развој на вештини и иновации

@@ -10,7 +10,7 @@ in_force_from: 1989-05-20
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1598"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за дополнување на Законот за упис во судскиот регистар на задругите, самоуправните интересни заедници и другите субјекти определени со закон

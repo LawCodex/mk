@@ -10,7 +10,7 @@ in_force_from: 2014-09-12
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33600"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот меѓу Владата на Република Македонија и Владата на Република Индија за одбегнување на двојно оданочување и за заштита од фискална евазија по однос на даноците на доход

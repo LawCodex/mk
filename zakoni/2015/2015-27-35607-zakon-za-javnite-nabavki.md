@@ -10,7 +10,7 @@ in_force_from: 2014-12-13
 status: in_force
 text_version: consolidated
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=35607"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за јавните набавки

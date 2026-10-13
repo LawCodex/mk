@@ -10,7 +10,7 @@ in_force_from: 2014-08-02
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=32968"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за данокот на добивка

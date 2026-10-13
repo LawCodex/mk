@@ -10,7 +10,7 @@ in_force_from: 2000-03-09
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6054"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за начинот на плаќање на заостанатите ненамирени обврски по основа на придонеси од плати и персонален данок од доход

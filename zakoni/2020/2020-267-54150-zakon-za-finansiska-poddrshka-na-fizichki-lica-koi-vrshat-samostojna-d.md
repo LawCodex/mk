@@ -10,7 +10,7 @@ in_force_from: 2020-11-09
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54150"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за финансиска поддршка на физички лица кои вршат самостојна дејност погодени од здравствено-економската криза предизвикана од вирусот COVID-19, за месеците октомври, ноември и декември 2020 година

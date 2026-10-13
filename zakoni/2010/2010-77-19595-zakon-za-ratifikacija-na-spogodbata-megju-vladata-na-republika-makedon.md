@@ -10,7 +10,7 @@ in_force_from: 2010-06-16
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19595"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата меѓу Владата на Република Македонија и Кабинетот на министрите на Украина за услови на заемни патувања на граѓаните

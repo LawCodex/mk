@@ -10,7 +10,7 @@ in_force_from: 2021-07-07
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56707"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот за заемна заштита на тајноста на пронајдоците кои се однесуваат на одбраната и за кои се поднесени барања за патентирање

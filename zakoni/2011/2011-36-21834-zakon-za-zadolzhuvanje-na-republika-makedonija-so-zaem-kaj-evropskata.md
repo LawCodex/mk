@@ -10,7 +10,7 @@ in_force_from: 2011-03-23
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21834"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија со заем кај Европската банка за обнова и развој по Договорот за заем за Проектот за изградба на автопатот на Коридорот Х, на делницата Демир Капија - Смоквица

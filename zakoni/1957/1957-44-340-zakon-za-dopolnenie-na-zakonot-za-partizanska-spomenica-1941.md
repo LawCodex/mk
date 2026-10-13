@@ -10,7 +10,7 @@ in_force_from: 1957-10-23
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=340"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за дополнение на Законот за "Партизанска споменица 1941"

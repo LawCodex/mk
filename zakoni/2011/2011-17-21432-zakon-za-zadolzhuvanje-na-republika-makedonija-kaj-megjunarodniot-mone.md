@@ -10,7 +10,7 @@ in_force_from: 2011-02-19
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21432"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија кај Меѓународниот монетарен фонд со кредитна линија за претпазливост

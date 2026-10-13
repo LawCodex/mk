@@ -10,7 +10,7 @@ in_force_from: 1995-03-14
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3966"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за санација и реконструирање на дел од банките во Република Македонија

@@ -10,7 +10,7 @@ in_force_from: 1993-06-29
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3205"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за трансформација на претпријатијата со општествен капитал

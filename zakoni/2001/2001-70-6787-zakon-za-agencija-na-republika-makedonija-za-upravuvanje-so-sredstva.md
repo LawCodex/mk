@@ -10,7 +10,7 @@ in_force_from: 2001-09-13
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6787"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за Агенција на Република Македонија за управување со средства

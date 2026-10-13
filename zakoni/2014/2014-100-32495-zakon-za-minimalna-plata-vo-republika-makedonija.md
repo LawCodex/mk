@@ -10,7 +10,7 @@ in_force_from: 2014-07-11
 status: in_force
 text_version: consolidated
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=32495"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за минимална плата во Република Македонија

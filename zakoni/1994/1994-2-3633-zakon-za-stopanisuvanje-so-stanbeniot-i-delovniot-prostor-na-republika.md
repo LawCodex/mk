@@ -10,7 +10,7 @@ in_force_from: 1994-01-26
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3633"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за стопанисување со станбениот и деловниот простор на Република Македонија

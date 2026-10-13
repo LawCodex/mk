@@ -10,7 +10,7 @@ in_force_from: 1974-06-14
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=757"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за формирање на средства за солидарноста на Социјалистичка Република Македонија за отстранување на последиците од елементарни непогоди и за воведување ''Недела на солидарноста''

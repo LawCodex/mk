@@ -10,7 +10,7 @@ in_force_from: 1989-12-06
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1681"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за организацијата и за единствената методологија на прибирањето, евидентирањето и обработката на податоци и информации за потребите на правосудниоте органи од интерес на целата земја

@@ -10,7 +10,7 @@ in_force_from: 2021-07-07
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56709"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Протоколот за измена на Конвенцијата за заштита на лица во однос на автоматска обработка на лични податоци

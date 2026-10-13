@@ -10,7 +10,7 @@ in_force_from: 2024-03-27
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66376"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за проспекти и обврски за транспарентност за издавачите на хартии од вредност

@@ -10,7 +10,7 @@ in_force_from: 2020-02-04
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51803"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за правата на заедниците кои се помалку од 20% од населението во Република Северна Македонија

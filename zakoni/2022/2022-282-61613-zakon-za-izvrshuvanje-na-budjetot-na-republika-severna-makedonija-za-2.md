@@ -10,7 +10,7 @@ in_force_from: 2022-12-27
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61613"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за извршување на Буџетот на Република Северна Македонија за 2023 година

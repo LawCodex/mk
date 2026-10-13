@@ -10,7 +10,7 @@ in_force_from: 1946-06-05
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=181"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за "Партизанската споменица 1941"

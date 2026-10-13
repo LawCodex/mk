@@ -10,7 +10,7 @@ in_force_from: 1976-07-31
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=907"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за дополнување на Законот за определување на градежното земјиште во одделни градови и населби од градски карактер Битола, Прилеп, Струга, Свети Николе, Џумајлија, Пробиштип, Демир Хисар и Куманово

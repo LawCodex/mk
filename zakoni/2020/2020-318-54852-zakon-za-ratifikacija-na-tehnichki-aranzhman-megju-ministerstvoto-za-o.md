@@ -10,7 +10,7 @@ in_force_from: 2021-01-08
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54852"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Технички аранжман меѓу Министерството за одбрана на Република Северна Македонија и Министерството за национална одбрана на Грција за заштита на воздушниот простор FIR SKOPJE (LWSS)

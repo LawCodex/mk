@@ -10,7 +10,7 @@ in_force_from: 2009-12-25
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18372"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Меморандумот за разбирање за институционалната рамка на иницијативата за подготвеност и превенција од катастрофи на Југоисточна Европа

@@ -10,7 +10,7 @@ in_force_from: 1980-02-16
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1041"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за изменување и дополнување на Законот за заштита на Охридското, Преспанското и Дојранското Езеро

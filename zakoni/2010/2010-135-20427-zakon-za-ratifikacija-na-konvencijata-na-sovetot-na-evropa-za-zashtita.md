@@ -10,7 +10,7 @@ in_force_from: 2010-10-16
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20427"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Конвенцијата на Советот на Европа за заштита на деца од сексуална експлоатација и сексуална злоупотреба

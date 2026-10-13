@@ -10,7 +10,7 @@ in_force_from: 1967-03-02
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=426"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за органите и установите за вршење работи за заштита од јонизирачки зрачења

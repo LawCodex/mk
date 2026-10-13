@@ -10,7 +10,7 @@ in_force_from: 2022-04-20
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59319"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Техничкиот аранжман помеѓу Владата на Република Северна Македонија и Врховната команда на сојузничките сили за Европа за воздушно патролирање над Република Северна Македонија

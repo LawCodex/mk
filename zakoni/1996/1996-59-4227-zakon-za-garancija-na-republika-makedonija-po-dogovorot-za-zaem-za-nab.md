@@ -10,7 +10,7 @@ in_force_from: 1996-11-02
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4227"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за гаранција на Република Македонија по Договорот за заем за набавка на резервни делови за вагони и локомотиви за Македонските железници

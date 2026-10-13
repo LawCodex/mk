@@ -10,7 +10,7 @@ in_force_from: 2000-12-19
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6060"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија со заем кај Европската заедница во износ од 50 милиони ЕВРА наменет за поддршка на платниот биланс на Република Македонија

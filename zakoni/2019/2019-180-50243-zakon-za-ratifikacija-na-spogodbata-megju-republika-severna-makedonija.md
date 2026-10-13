@@ -10,7 +10,7 @@ in_force_from: 2019-09-10
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50243"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата меѓу Република Северна Македонија и Европската Унија за учество на Република Северна Македонија во „Европскиот корпус на солидарност“

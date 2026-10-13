@@ -10,7 +10,7 @@ in_force_from: 2009-11-27
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18089"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Амандманот на Статутот на Меѓународната банка за обнова и развој (Светска банка)

@@ -10,7 +10,7 @@ in_force_from: 1993-03-16
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3368"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за изменување и дополнување на Законот за самостојно вршење дејност со личен труд

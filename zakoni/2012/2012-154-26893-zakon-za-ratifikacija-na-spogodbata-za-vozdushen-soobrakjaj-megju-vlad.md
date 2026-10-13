@@ -10,7 +10,7 @@ in_force_from: 2012-12-15
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26893"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата за воздушен сообраќај меѓу Владата на Република Македонија и Владата на Соединетите Американски Држави

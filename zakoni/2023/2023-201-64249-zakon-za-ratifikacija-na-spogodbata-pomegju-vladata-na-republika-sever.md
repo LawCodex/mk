@@ -10,7 +10,7 @@ in_force_from: 2023-10-04
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64249"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата помеѓу Владата на Република Северна Македонија и Советот на министри на Република Албанија за меѓународен воден транспорт во Охридското Езеро

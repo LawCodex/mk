@@ -10,7 +10,7 @@ in_force_from: 1995-09-28
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3871"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за одликувањата и признанијата на Република Македонија

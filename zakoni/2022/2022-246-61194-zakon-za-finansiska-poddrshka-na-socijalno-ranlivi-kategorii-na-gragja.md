@@ -10,7 +10,7 @@ in_force_from: 2022-11-16
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61194"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за финансиска поддршка на социјално ранливи категории на граѓани за справување со енергетската криза

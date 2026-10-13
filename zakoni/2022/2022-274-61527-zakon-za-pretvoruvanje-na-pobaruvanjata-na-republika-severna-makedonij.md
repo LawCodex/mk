@@ -10,7 +10,7 @@ in_force_from: 2022-12-28
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61527"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за претворување на побарувањата на Република Северна Македонија по основ на платени обврски кон странски кредитор во траен влог во јавното претпријатие колекторски систем

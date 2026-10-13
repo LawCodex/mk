@@ -10,7 +10,7 @@ in_force_from: 1999-07-16
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5486"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија кај Фондот за меѓународна соработка и развој на Република Кина

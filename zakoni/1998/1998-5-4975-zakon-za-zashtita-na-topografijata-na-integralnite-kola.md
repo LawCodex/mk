@@ -10,7 +10,7 @@ in_force_from: 1998-02-07
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4975"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за заштита на топографијата на интегралните кола

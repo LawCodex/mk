@@ -10,7 +10,7 @@ in_force_from: 2025-01-03
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68944"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Северна Македонија со заем кај Европската Унија по Договор за заем за инструментот за реформи и раст за Западен Балкан

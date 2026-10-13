@@ -10,7 +10,7 @@ in_force_from: 2013-02-23
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27635"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот за Централноевропската програма за размена на универзитетски студии (“ЦЕЕПУС III”)

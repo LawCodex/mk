@@ -10,7 +10,7 @@ in_force_from: 2000-06-01
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6025"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за семенски материјал, саден материјал и материјал за размножување, признавање, одобрување и заштита на сорта

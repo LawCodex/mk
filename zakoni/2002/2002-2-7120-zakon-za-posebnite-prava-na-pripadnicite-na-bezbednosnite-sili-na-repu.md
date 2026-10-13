@@ -10,7 +10,7 @@ in_force_from: 2002-01-26
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7120"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за посебните права на припадниците на безбедносните сили на Република Македонија и на членовите на нивните семејства

@@ -10,7 +10,7 @@ in_force_from: 2011-09-30
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23365"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на градот Скопје кај Европската банка за обнова и развој по Договорот за заем за проектот „Со нови концепти за ефикасен сообраќај кон почисто Скопје“ без издавање на државна гаранција

@@ -10,7 +10,7 @@ in_force_from: 1968-07-04
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=549"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за определување градежно земјиште за одделени градови и населби од градски карактер

@@ -10,7 +10,7 @@ in_force_from: 2000-12-19
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6077"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија кај Меѓународното здружение за развој по Договорот за кредит за реализација на Проектот за олеснување на трговијата и транспортот во Југоисточна Европа

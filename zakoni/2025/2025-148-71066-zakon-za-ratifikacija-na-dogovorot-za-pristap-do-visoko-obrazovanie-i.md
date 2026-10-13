@@ -10,7 +10,7 @@ in_force_from: 2025-07-31
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71066"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот за пристап до високо образование и прием на студии во Западен Балкан

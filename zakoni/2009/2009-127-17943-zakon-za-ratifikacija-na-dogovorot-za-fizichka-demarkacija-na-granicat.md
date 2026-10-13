@@ -10,7 +10,7 @@ in_force_from: 2009-10-27
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17943"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот за физичка демаркација на границата меѓу Република Македонија и Република Косово

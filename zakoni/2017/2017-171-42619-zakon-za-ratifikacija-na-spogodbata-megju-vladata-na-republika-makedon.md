@@ -10,7 +10,7 @@ in_force_from: 2017-12-06
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42619"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата меѓу Владата на Република Македонија и Владата на Народна Република Кина за меѓусебно ослободување од визи за носителите на дипломатски и службени пасоши

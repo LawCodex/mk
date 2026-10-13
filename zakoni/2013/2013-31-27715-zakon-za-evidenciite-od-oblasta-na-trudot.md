@@ -10,7 +10,7 @@ in_force_from: 2013-01-21
 status: in_force
 text_version: consolidated
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27715"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за евиденциите од областа на трудот

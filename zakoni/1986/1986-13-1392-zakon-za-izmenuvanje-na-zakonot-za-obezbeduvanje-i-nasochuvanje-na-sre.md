@@ -10,7 +10,7 @@ in_force_from: 1986-03-15
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1392"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за изменување на Законот за обезбедување и насочување на средствата за поттикнување на развојот на земјоделството и сточарството

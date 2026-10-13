@@ -10,7 +10,7 @@ in_force_from: 1990-08-18
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1667"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за единствениот регистар на населението во Социјалистичка Република Македонија

@@ -10,7 +10,7 @@ in_force_from: 2009-11-27
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18087"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за платите на членовите на Советот на јавните обвинители на Република Македонија

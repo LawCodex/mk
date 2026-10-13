@@ -10,7 +10,7 @@ in_force_from: 2025-07-12
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70870"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за архивски материјал и архивска дејност

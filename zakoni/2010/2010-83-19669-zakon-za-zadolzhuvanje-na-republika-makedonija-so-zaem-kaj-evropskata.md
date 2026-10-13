@@ -10,7 +10,7 @@ in_force_from: 2010-07-24
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19669"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија со заем кај Европската инвестициона банка по Договорот за заем по Проектот „Водоснабдување и одведување отпадни води

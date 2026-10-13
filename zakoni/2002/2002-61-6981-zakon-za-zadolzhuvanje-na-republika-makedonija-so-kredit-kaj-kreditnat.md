@@ -10,7 +10,7 @@ in_force_from: 2002-07-26
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6981"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија со кредит кај Кредитната банка за обнова ("KFW') по Договорот за кредит за Проектот за наводнување на јужниот регион на Вардар

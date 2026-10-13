@@ -10,7 +10,7 @@ in_force_from: 2009-05-06
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16819"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот меѓу Република Македонија и Република Естонија за одбегнување на двојното оданочување и за заштита од фискална евазија по однос на даноците од доход

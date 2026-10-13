@@ -10,7 +10,7 @@ in_force_from: 2001-05-04
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6902"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за регистрирање на готовински плаќања

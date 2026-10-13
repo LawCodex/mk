@@ -10,7 +10,7 @@ in_force_from: 2019-05-22
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49117"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за електронски документи, електронска идентификација и доверливи услуги

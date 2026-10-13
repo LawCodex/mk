@@ -10,7 +10,7 @@ in_force_from: 1991-06-01
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за дополнување на Законот за личните доходи и другите надоместоци на пратениците во Собранието на Република Македонија и другите избрани и именувани лица во Републиката

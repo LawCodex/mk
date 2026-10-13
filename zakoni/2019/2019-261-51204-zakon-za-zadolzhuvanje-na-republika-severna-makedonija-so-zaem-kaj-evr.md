@@ -10,7 +10,7 @@ in_force_from: 2019-12-18
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51204"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Северна Македонија со заем кај Европската инвестициона банка по Финансискиот договор за Проектот „Пречистителна станица за отпадни води во Скопје“

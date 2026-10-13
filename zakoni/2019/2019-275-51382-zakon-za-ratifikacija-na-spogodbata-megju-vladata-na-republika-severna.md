@@ -10,7 +10,7 @@ in_force_from: 2020-01-04
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51382"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за Ратификација на Спогодбата меѓу Владата на Република Северна Македонија и Владата на Република Србија за отворање на заеднички граничен премин Лојане -Миратовец

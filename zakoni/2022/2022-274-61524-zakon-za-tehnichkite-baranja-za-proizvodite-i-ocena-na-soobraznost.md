@@ -10,7 +10,7 @@ in_force_from: 2022-12-28
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61524"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за техничките барања за производите и оцена на сообразност

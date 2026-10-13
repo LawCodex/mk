@@ -10,7 +10,7 @@ in_force_from: 2013-10-09
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29527"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата меѓу Владата на Република Македониjа и Владата на Руската Федерациjа за соработка при изградбата на гасоводот - кракот за испорака на гас во  Република Македониjа

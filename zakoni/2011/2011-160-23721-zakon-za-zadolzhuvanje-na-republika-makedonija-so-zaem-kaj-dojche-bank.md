@@ -10,7 +10,7 @@ in_force_from: 2011-11-18
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23721"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија со заем кај Дојче банка и Сити банка по Договорот за заем обезбеден со гаранција заснована на политики од Меѓународната банка за обнова и развој - Светска банка

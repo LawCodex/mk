@@ -10,7 +10,7 @@ in_force_from: 2026-01-07
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72547"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот за соработка во областа на одбраната помеѓу Владата на Француската Република и Владата на Република Северна Македонија

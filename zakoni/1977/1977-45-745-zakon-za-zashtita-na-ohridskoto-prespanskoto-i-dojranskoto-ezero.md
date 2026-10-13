@@ -10,7 +10,7 @@ in_force_from: 1977-09-17
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=745"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за заштита на Охридското, Преспанското и Дојранското Езеро

@@ -10,7 +10,7 @@ in_force_from: 2002-02-06
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7251"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за локалната самоуправа

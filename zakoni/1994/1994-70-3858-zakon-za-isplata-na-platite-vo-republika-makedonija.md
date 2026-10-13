@@ -10,7 +10,7 @@ in_force_from: 1995-01-01
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3858"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за исплата на платите во Република Македонија

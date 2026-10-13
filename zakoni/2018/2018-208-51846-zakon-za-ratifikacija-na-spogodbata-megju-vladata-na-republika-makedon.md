@@ -10,7 +10,7 @@ in_force_from: 2018-11-22
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51846"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата меѓу Владата на Република Македонија и Австриската Сојузна Влада за размена и заемна заштита на класифицирани информации

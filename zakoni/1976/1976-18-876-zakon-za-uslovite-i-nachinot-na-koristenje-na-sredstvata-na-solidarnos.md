@@ -10,7 +10,7 @@ in_force_from: 1976-05-15
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=876"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за условите и начинот на користење на средствата на солидарноста за отстранување на последиците од елементарни непогоди во Социјалистичка Република Македонија

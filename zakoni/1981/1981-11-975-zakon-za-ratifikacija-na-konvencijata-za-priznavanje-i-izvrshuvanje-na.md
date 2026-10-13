@@ -10,7 +10,7 @@ in_force_from: 1981-03-07
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=975"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Конвенцијата за признавање и извршување на странските арбитражни одлуки

@@ -10,7 +10,7 @@ in_force_from: 2000-12-01
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5970"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за изменување на Законот за основање на Јавно претпријатие Македонска радиодифузија

@@ -10,7 +10,7 @@ in_force_from: 1989-02-04
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1509"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за измени на Законот за прометот на експлозивни материи

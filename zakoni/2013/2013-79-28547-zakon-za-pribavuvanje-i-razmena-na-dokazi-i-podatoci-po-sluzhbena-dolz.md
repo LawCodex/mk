@@ -10,7 +10,7 @@ in_force_from: 2013-06-08
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28547"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за прибавување и размена на докази и податоци по службена должност

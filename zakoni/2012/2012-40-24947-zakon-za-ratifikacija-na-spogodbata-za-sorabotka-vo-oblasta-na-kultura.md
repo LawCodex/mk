@@ -10,7 +10,7 @@ in_force_from: 2012-04-03
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24947"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата за соработка во областа на културата меѓу Владата на Република Македонија и Владата на Државата Катар

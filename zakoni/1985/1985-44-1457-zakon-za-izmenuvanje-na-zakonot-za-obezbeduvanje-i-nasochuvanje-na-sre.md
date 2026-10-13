@@ -10,7 +10,7 @@ in_force_from: 1985-08-31
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1457"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за изменување на Законот за обезбедување и насочување на средства за поттикнување на развојот на земјоделското производство и за компензација на цената на некои прехранбени производи

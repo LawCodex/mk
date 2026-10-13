@@ -10,7 +10,7 @@ in_force_from: 2018-01-26
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42646"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Конвенцијата за трудови статистики, 1985 (С160)

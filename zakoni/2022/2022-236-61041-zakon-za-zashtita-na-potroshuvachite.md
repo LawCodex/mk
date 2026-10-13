@@ -10,7 +10,7 @@ in_force_from: 2022-11-15
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61041"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за заштита на потрошувачите

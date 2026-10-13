@@ -10,7 +10,7 @@ in_force_from: 1997-06-28
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4471"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Европската конвенција што се однесува на формалните барања за пријава на патент

@@ -10,7 +10,7 @@ in_force_from: 2015-09-02
 status: in_force
 text_version: consolidated
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39431"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за еднакви можности на жените и мажите

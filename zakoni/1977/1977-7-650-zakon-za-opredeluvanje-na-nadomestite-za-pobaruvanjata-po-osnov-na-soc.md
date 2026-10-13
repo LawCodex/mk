@@ -10,7 +10,7 @@ in_force_from: 1977-02-12
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=650"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за определување на надоместите за побарувањата по основ на социјално осигурување настанати во странство

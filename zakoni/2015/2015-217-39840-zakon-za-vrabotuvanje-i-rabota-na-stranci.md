@@ -10,7 +10,7 @@ in_force_from: 2015-12-19
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39840"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за вработување и работа на странци

@@ -10,7 +10,7 @@ in_force_from: 2026-05-27
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73849"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Северна Македонија со заем кај КфВ ИПЕКС-Банк ГмбХ (KfW IPEX-Bank GmbH), Банко Билбао Визкаја Аргентариа, С.А. (Banco Bilbao Vizcaya Argentaria, S.A.), Ерсте Гроуп Банк АГ (Erste Group Bank AG), АКА Аусфухкредит-Гезелшафт мбХ (AKA Ausfuhrkredit-Gesellschaft mbH) и Мерил Линцх Интернатионал (Merrill Lynch International) по Договор за заем за општи буџетски потреби, вклучително и за финансирање на капитални расходи и рефинансирање на обврски утврдени во Буџетот на Република Северна Македонија

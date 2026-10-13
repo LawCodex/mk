@@ -10,7 +10,7 @@ in_force_from: 1995-06-14
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3898"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија кај Меѓународното здружение за развој за реализација на проектот за социјална реформа и техничка помош

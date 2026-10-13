@@ -10,7 +10,7 @@ in_force_from: 2013-09-07
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29335"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Протоколот за стратегиска оценка на влијанието врз животната средина кон Конвенцијата за оценување на влијанијата врз животната средина во прекуграничен контекст

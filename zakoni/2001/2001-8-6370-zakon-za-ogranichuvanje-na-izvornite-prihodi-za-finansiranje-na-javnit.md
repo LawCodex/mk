@@ -10,7 +10,7 @@ in_force_from: 2001-02-06
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6370"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ограничување на изворните приходи за финансирање на јавните потреби за 2001 година

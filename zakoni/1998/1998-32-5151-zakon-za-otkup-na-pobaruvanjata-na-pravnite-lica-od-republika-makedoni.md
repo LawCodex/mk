@@ -10,7 +10,7 @@ in_force_from: 1998-07-18
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5151"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за откуп на побарувањата на правните лица од Република Македонија, од Ирак и Кувајт, од страна на Република Македонија

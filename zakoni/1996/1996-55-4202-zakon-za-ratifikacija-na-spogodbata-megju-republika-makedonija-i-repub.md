@@ -10,7 +10,7 @@ in_force_from: 1996-10-11
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4202"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата меѓу Република Македонија и Република Словенија со заемна заштита и поттикнување на инвестициите

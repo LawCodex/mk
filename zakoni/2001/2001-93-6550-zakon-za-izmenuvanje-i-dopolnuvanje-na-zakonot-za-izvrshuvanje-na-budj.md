@@ -10,7 +10,7 @@ in_force_from: 2001-11-26
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6550"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за изменување и дополнување на Законот за извршување на Буџетот на Република Македонија за 2001 година

@@ -10,7 +10,7 @@ in_force_from: 2002-07-04
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7191"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за дополнување на Законот за објавување на законите и другите прописи и акти во ''Службен весник на Република Македонија''

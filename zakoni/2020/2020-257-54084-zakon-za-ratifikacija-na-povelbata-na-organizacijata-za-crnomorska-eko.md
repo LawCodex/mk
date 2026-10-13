@@ -10,7 +10,7 @@ in_force_from: 2020-11-05
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54084"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Повелбата на Организацијата за црноморска економска соработка и на дополнувањето на Повелбата на Организацијата за црноморска економска соработка

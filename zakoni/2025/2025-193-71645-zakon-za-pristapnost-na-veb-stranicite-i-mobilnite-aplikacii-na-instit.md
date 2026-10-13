@@ -10,7 +10,7 @@ in_force_from: 2025-09-26
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71645"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за пристапност на веб-страниците и мобилните апликации на институциите од јавниот сектор

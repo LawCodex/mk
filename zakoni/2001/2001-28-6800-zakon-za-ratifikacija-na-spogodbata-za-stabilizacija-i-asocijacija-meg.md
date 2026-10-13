@@ -10,7 +10,7 @@ in_force_from: 2001-04-21
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6800"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата за стабилизација и асоцијација меѓу Република Македонија и Европските заедници и нејзините членки

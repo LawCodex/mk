@@ -10,7 +10,7 @@ in_force_from: 2013-02-28
 status: in_force
 text_version: consolidated
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27676"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за исплата на платите во Република Македонија

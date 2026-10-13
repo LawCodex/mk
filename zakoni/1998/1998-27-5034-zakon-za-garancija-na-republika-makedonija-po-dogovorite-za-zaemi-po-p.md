@@ -10,7 +10,7 @@ in_force_from: 1998-06-18
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5034"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за гаранција на Република Македонија по Договорите за заеми по проектот ХЕЦ Козјак со Кинеската банка и фирмата Хаинан С.И.Т Ентерпраис Корп.

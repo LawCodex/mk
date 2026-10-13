@@ -10,7 +10,7 @@ in_force_from: 1999-08-04
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5360"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за изменување на Законот за задолжување на Република Македонија кај Фондот за Меѓународна соработка и развој на Република Кина

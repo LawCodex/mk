@@ -10,7 +10,7 @@ in_force_from: 2021-07-15
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56705"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Меморандумот за разбирање помеѓу Владата на Република Северна Македонија и Владата на Република Грција во врска со формирање на Управувачки комитет за економска соработка

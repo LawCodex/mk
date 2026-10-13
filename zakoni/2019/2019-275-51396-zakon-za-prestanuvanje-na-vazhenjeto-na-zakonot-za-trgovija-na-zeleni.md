@@ -10,7 +10,7 @@ in_force_from: 2020-01-04
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51396"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за престанување на важењето на Законот за трговија на зелени пазари

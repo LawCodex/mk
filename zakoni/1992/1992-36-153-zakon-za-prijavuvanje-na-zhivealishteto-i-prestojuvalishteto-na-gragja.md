@@ -10,7 +10,7 @@ in_force_from: 1992-06-16
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=153"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за пријавување на живеалиштето и престојувалиштето на граѓаните

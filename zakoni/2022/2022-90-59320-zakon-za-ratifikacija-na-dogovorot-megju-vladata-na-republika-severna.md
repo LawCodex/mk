@@ -10,7 +10,7 @@ in_force_from: 2022-04-12
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59320"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот меѓу Владата на Република Северна Македонија и Владата на Соединетите Американски Држави за безбедносните мерки за заштита на класифицирани информации

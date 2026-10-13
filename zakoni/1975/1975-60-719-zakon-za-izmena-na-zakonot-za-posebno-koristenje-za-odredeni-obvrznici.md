@@ -10,7 +10,7 @@ in_force_from: 1976-01-03
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=719"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за измена на Законот за посебно користење за одредени обврзници и на други хартии од вредност

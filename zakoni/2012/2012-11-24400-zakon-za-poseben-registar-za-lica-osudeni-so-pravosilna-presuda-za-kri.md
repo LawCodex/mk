@@ -10,7 +10,7 @@ in_force_from: 2012-02-01
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24400"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за Посебен регистар за лица осудени со правосилна пресуда за кривични дела за сексуална злоупотреба на малолетни лица и педофилија

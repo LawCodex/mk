@@ -10,7 +10,7 @@ in_force_from: 2001-09-13
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6786"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за овластување на организација за изработка на пригодни ковани пари

@@ -10,7 +10,7 @@ in_force_from: 2010-09-28
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20264"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот меѓу Република Македонија и Кралството Мароко за одбегнување на двојно оданочување и заштита од фискална евазија по однос на даноците на доход

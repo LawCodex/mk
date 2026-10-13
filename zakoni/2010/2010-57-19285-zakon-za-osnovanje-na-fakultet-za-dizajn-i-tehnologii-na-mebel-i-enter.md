@@ -10,7 +10,7 @@ in_force_from: 2010-05-04
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19285"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за основање на Факултет за дизајн и технологии на мебел и ентериер во состав на Универзитетот "Св. Кирил и Методиј" - Скопје

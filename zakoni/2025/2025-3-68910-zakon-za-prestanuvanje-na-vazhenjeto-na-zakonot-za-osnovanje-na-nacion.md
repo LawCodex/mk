@@ -10,7 +10,7 @@ in_force_from: 2025-01-03
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68910"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за престанување на важењето на Законот за основање на Национална агенција за нуклеарни технологии на Република Македонија

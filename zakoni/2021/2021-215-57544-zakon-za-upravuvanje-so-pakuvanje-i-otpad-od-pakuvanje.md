@@ -10,7 +10,7 @@ in_force_from: 2021-09-24
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57544"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за управување со пакување и отпад од пакување

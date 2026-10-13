@@ -10,7 +10,7 @@ in_force_from: 2021-12-23
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58216"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Меморандумот за разбирање за олеснување на патниот транспорт на стоки во регионот на Организацијата за Црноморска економска соработка

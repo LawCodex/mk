@@ -10,7 +10,7 @@ in_force_from: 2009-11-03
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18020"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија кај Банката за развој при Советот на Европа по Рамковниот договор за заем за делумно финансирање на Проектот за домување на социјално ранливи групи

@@ -10,7 +10,7 @@ in_force_from: 2010-12-08
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20745"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за заштита од јонизирачко зрачење и радијациона сигурност (Пречистен текст)

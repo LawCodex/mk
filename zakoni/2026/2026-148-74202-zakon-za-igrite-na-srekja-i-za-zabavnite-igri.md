@@ -10,7 +10,7 @@ in_force_from: 2026-07-14
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74202"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за игрите на среќа и за забавните игри

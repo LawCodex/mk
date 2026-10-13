@@ -10,7 +10,7 @@ in_force_from: 2009-08-05
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17614"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија со заем кај Меѓународната банка за обнова и развој - Светската банка по договорот за заем по Проектот за условени парични трансфери

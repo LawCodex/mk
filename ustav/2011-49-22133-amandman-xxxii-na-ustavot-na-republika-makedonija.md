@@ -10,7 +10,7 @@ in_force_from: 2011-04-12
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22133"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Амандман XXXII на Уставот на Република Македонија

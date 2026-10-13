@@ -10,7 +10,7 @@ in_force_from: 2013-10-09
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29526"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Договорот меѓу Република Македонија и Босна и Херцеговина за измени и дополнувања на Договорот меѓу Република Македонија и Босна и Херцеговина за екстрадиција

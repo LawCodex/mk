@@ -10,7 +10,7 @@ in_force_from: 2010-10-16
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20431"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Протоколот кон конвенцијата за далекосежно прекугранично загадување на воздухот за тешки метали од 1979 година

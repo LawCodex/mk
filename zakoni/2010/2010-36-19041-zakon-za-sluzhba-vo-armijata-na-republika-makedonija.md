@@ -10,7 +10,7 @@ in_force_from: 2010-03-23
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19041"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за служба во Армијата на Република Македонија

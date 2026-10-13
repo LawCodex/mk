@@ -10,7 +10,7 @@ in_force_from: 2026-06-17
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74046"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за основање на Факултет за медицински науки и здравство во состав на Универзитетот „Св. Климент Охридски“ - Битола

@@ -10,7 +10,7 @@ in_force_from: 2009-11-04
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18025"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија со заем кај Кредитната банка за обнова - КфВ по Договорот за заем за Проектот "Наводнување на јужната долина на реката Вардар - фаза II"

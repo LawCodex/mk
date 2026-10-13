@@ -10,7 +10,7 @@ in_force_from: 2012-07-12
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25766"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за претворање на побарувањата на Република Македонија по основ на  платени обврски кон странски кредитори и странски железнички претпријатија  во траен влог во МЖ Транспорт АД Скопје

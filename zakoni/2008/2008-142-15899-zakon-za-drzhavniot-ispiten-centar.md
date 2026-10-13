@@ -10,7 +10,7 @@ in_force_from: 2008-11-18
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15899"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за Државниот испитен центар

@@ -10,7 +10,7 @@ in_force_from: 2026-02-25
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73042"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Дополнителниот протокол кон Конвенцијата за Договорот за меѓународен патен превоз на стоки (CMR) за електронски товарен лист

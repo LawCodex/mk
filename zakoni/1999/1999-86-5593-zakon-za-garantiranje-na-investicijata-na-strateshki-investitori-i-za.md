@@ -10,7 +10,7 @@ in_force_from: 2000-01-08
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5593"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за гарантирање на инвестицијата на стратешки инвеститори и за преземање на одделни побарувања од крајни корисници од страна на Република Македонија, во Стопанска банка А.Д Скопје

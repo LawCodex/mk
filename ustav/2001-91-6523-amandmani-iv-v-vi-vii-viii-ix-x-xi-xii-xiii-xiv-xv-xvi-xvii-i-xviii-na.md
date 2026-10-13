@@ -10,7 +10,7 @@ in_force_from: 2001-11-16
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6523"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Амандмани IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII и XVIII на Уставот на Република Македонија

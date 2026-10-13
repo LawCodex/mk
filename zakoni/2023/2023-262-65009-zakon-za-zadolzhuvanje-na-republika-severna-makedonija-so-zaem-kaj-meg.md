@@ -10,7 +10,7 @@ in_force_from: 2023-12-11
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65009"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по Договорот за заем за развојни политики за одржливост и отпорност

@@ -10,7 +10,7 @@ in_force_from: 1990-03-31
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1549"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за измени и дополненија на Законот за договорите за превоз во железничкиот сообраќај

@@ -10,7 +10,7 @@ in_force_from: 2023-04-26
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62722"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Спогодбата меѓу Владата на Република Северна Македонија и Владата на Република Србија за основање Културно – информативни центри во Белград и во Скопје

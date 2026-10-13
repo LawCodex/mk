@@ -10,7 +10,7 @@ in_force_from: 1973-07-27
 status: in_force
 text_version: amendment
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=620"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за измена и дополнение на Законот за посебно користење на одредени обврзници

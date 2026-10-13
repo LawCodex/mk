@@ -10,7 +10,7 @@ in_force_from: 1999-12-21
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5575"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за начинот и условите за користење на средства за исплата на испратнини по договорот за кредит по проектот за итна социјална помош на Република Македонија

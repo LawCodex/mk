@@ -10,7 +10,7 @@ in_force_from: 1999-05-24
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5270"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за задолжување на Република Македонија со стоков кредит кај Владата на Италијанската Република

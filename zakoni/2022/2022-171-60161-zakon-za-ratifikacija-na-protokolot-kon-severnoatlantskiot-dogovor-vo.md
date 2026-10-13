@@ -10,7 +10,7 @@ in_force_from: 2022-07-29
 status: in_force
 text_version: original
 source: "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=60161"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Закон за ратификација на Протоколот кон Северноатлантскиот договор во врска со пристапувањето на Република Финска
